@@ -1,0 +1,1072 @@
+,addr:city,addr:housenumber,addr:postcode,addr:street,ais,amenity,in:pois,lat,lon,name
+477364089,Fortaleza,315,,Rua Nestor Barbosa,6,hospital,True,-3.7446813,-38.5581389,Hospital São José
+2613646012,Fortaleza,747,,Rua Alexandre Baraúna,6,pharmacy,True,-3.7494762,-38.5501805,Pague Menos (Rodolfo Teófilo)
+3469922228,Fortaleza,1014,60525632,Rua Júlio Braga,6,school,True,-3.7756278,-38.5799058,Colégio Uma Janela Para o Mundo
+3965914604,,,,Avenida Mister Hull,6,fast_food,True,-3.7378343,-38.5715759,Cantina da Agronomia
+4478095429,Fortaleza,1020,,Rua Vital Brasil,6,school,True,-3.7801109,-38.5898834,E.M.E.I.F. Francisca Fernandes Magalhães
+4478095431,Fortaleza,788,,Rua Emílio de Menezes,6,restaurant,True,-3.7812805,-38.5886879,Churrascaria e Pizzaria Mikaella
+4478095434,Fortaleza,326,,Rua Anselmo Nogueira,6,restaurant,True,-3.7811454,-38.5872916,Restaurante & Pizzaria Mouras
+4478095438,Fortaleza,315,,Rua Emílio de Menezes,6,school,True,-3.7826541,-38.5846434,Colégio Castro
+4478095458,Fortaleza,s/n,,Rua Verbena,6,school,True,-3.7884154,-38.5893389,E.T.I. Maria do Socorro Alves Carneiro
+4493447610,Fortaleza,1626,,Rua Matos Vasconcelos,6,university,True,-3.7580067,-38.5567263,FATENE Faculdade de Tecnologia do Nordeste
+4494954276,Fortaleza,1426,,Rua Capitão Francisco Pedro,6,restaurant,True,-3.7503462,-38.5519597,Franguinho da Mídia
+4494954278,Fortaleza,1545,,Rua Professor Costa Mendes,6,restaurant,True,-3.7498465,-38.5525191,Picanha do Rodolfo Teófilo
+4494954279,Fortaleza,1609,,Rua Professor Costa Mendes,6,post_office,True,-3.7494903,-38.5529487,Correios (Rodolfo Teófilo)
+4494970787,Fortaleza,1649,,Rua Professor Costa Mendes,6,restaurant,True,-3.7492653,-38.5531156,Lu Gregorio Doces & Salgados
+4494970788,Fortaleza,1659,,Rua Professor Costa Mendes,6,restaurant,True,-3.7491482,-38.5531878,Aki Lanches
+4494972189,Fortaleza,1315,,Rua Coronel Nunes de Melo,6,university,True,-3.7489502,-38.5528224,Faculdade de Medicina UFC
+4494994989,Fortaleza,949,,Rua Alexandre Baraúna,6,university,True,-3.748338,-38.5514962,Faculdade de Farmácia e Enfermagem UFC
+4494994990,Fortaleza,996,,Rua Alexandre Baraúna,6,restaurant,True,-3.7478429,-38.5516992,Celli Salgados
+4494994992,Fortaleza,s/n,,Rua Monsenhor Furtado,6,university,True,-3.7481309,-38.5508195,Faculdade de Odontologia UFC
+4495003389,Fortaleza,1074,,Rua Alexandre Baraúna,6,restaurant,True,-3.7473702,-38.5522089,Antenor Lanches
+4495003390,Fortaleza,1098,,Rua Alexandre Baraúna,6,restaurant,True,-3.7472037,-38.5523803,Vera Restaurante
+4495003391,Fortaleza,1128,,Rua Alexandre Baraúna,6,restaurant,True,-3.7470461,-38.5525607,Self-Service & Pizzaria Sandubão
+4495031626,Fortaleza,1010,,Rua Francisca Clotilde,6,pub,True,-3.7457701,-38.5557306,Bar da Cal
+4495031628,Fortaleza,190,,Rua Francisca Clotilde,6,pub,True,-3.7469889,-38.5569103,Bigod's Bar
+4495578617,Fortaleza,388,,Rua Carvalho Mota,6,fast_food,True,-3.7383359,-38.5445412,Iolanda Lanches
+4495578618,Fortaleza,191,,Avenida Jovita Feitosa,6,restaurant,True,-3.7377552,-38.5456464,Choppicanha Restaurante
+4495592487,Fortaleza,170,,Avenida Jovita Feitosa,6,restaurant,True,-3.7373816,-38.5453306,DOM SPETO (Jovita)
+4495597090,Fortaleza,184,,Rua Major Pedro Sampaio,6,restaurant,True,-3.7390111,-38.5467606,C P V Restaurante
+4495639553,Fortaleza,987,,Rua Minervino de Castro,6,school,True,-3.7401499,-38.5472658,Colégio Deoclécio Ferro
+4495639559,Fortaleza,674,,Avenida Jovita Feitosa,6,restaurant,True,-3.7382729,-38.5499047,Restaurante Veríssimo
+4495639560,Fortaleza,159,,Rua Francisca Clotilde,6,restaurant,True,-3.7394072,-38.5497062,Churrasquinho da Esquina
+4495639561,Fortaleza,25,,Rua Francisca Clotilde,6,restaurant,True,-3.7393757,-38.550022,Pizzaria Tia Glória
+4495656566,Fortaleza,838,,Rua Padre Cícero,6,pharmacy,True,-3.7401814,-38.549422,Farmácia Cura Ativa
+4495656568,Fortaleza,376,,Rua Major Pedro Sampaio,6,school,True,-3.7412482,-38.549016,Colégio Vasconcelos Vieira
+4495699135,Fortaleza,392,,Rua Francisca Clotilde,6,restaurant,True,-3.7415749,-38.5520723,Churrascaria do Manuel
+4495699141,Fortaleza,999,,Avenida Jovita Feitosa,6,restaurant,True,-3.739064,-38.5518963,Mazé do Guarana JM Lanches
+4495719065,Fortaleza,614,,Rua Cruz Saldanha,6,school,True,-3.7394311,-38.553296,Christhus Pré-Universitário (Jovita)
+4495719067,Fortaleza,893,,Avenida Gonçalves Dias,6,restaurant,True,-3.7397074,-38.5524843,Mana pizzas
+4496129016,Fortaleza,538,,Rua José Façanha,6,restaurant,True,-3.7528164,-38.5562717,Delícias D'Santiago - Marmitaria & Café - Quentinhas em Fortaleza
+4496129032,Fortelaza,1235,,Avenida Engenheiro Humberto Monte,6,pharmacy,True,-3.7487275,-38.56108,Pague Menos (Bela Vista)
+4621093089,,354,,Rua Araripe Macedo,6,school,True,-3.7722941,-38.5773863,Escola de Ensino Fundamental e Médio Heráclito de Castro
+4690600792,,90,,Avenida Lineu Machado,6,restaurant,True,-3.7612957,-38.5746923,Churrascaria João Filho
+4745718617,Fortaleza,650,,Rua Tomáz Rodrigues,6,restaurant,True,-3.7428997,-38.5937264,Copacabana - Churrascaria e Pizzaria
+4874848008,Fortaleza,,,Avenida Jovita Feitosa,6,restaurant,True,-3.7397351,-38.5566666,Gogó da Ema Grill
+4876432046,Fortaleza,,,Avenida Jovita Feitosa,6,restaurant,True,-3.739309,-38.5543772,Fone Pizza Restaurante
+4876432983,Fortaleza,,,Avenida Jovita Feitosa,6,pharmacy,True,-3.7392206,-38.5539212,Pague Menos
+4876438145,Fortaleza,,,Avenida Jovita Feitosa,6,restaurant,True,-3.7401039,-38.5568985,Le Gusto
+4976371821,,,,Avenida Augusto dos Anjos,6,pharmacy,True,-3.773299,-38.5731274,Farmácia Pague Menos
+5117238119,Fortaleza,88,,Rua Professor Nogueira,6,fast_food,True,-3.7339617,-38.5497495,Hambugueria 88
+5117306481,Fortaleza,276,,Avenida Jovita Feitosa,6,fast_food,True,-3.7378392,-38.5460039,Ordonoes Sandwish Shop
+5117316067,Fortaleza,327,,Rua Moreira de Sousa,6,school,True,-3.7394297,-38.5665724,EEEP Joaquim Nogueira
+5141626326,Fortaleza,288,,Rua General Piragibe,6,restaurant,True,-3.7368813,-38.5582174,Hikari Gourmet
+5141628797,Fortaleza,88,,Rua Professor Nogueira,6,restaurant,True,-3.7339335,-38.5497768,Sushi Agora
+5141638281,Fortaleza,300,,Rua Professor Nogueira,6,ice_cream,True,-3.7353901,-38.5495067,Gelateria Trevo Açaí
+5486659103,,794,,Rua Professor Lino Encarnação,6,restaurant,True,-3.742412,-38.5605003,Pizza Picante
+5553559866,,2467,,Avenida Jovita Feitosa,6,restaurant,True,-3.7406133,-38.559517,Casa d'Ávila
+5913589385,Fortaleza,161,60510-055,Rua Cuiabá,6,school,True,-3.7712488,-38.5749642,Colégio Lucê
+6120863647,Fortaleza,,,Avenida Mister Hull,6,cafe,True,-3.7367989,-38.5729477,Delicias de Trigo
+6382103050,Fortaleza,354,60360760,Rua Professor Joaquim Nogueira,6,restaurant,True,-3.7427139,-38.590085,JH
+6387062577,Fortaleza,,,Avenida Senador Fernandes Távora,6,restaurant,True,-3.7596532,-38.5871742,Expresso Grill
+243210518,Fortaleza,,,Avenida Jovita Feitosa,6,fast_food,True,-3.7396846,-38.55496159999999,Bebelu
+243504508,Fortaleza,3390,,Avenida José Bastos,6,hospital,True,-3.7488511087305576,-38.54988086353821,HEMOCE
+243504509,Fortaleza,1222,,Rua Papi Júnior,6,hospital,True,-3.7471157565818776,-38.55368726812834,Hospital Haroldo Juaçaba - Instituto do Câncer
+243505774,Fortaleza,,,Avenida Bezerra de Menezes,6,fast_food,True,-3.7362395750697677,-38.56882276526857,Habib`s
+243505776,Fortaleza,2461,60325-004,Avenida Bezerra de Menezes,6,bank,True,-3.7364457289655175,-38.56636986457553,Banco do Brasil
+255696279,Fortaleza,3786,,Avenida José Bastos,6,bank,True,-3.7515744605217245,-38.55236995284232,Banco do Brasil (Rodolfo Teófilo)
+329552695,Fortaleza,2433,,Avenida Senador Fernandes Távora,6,hospital,True,-3.756189362063977,-38.59428042195155,UPA 24h (Autran Nunes)
+352873058,Fortaleza,294,,Rua Cândido Maia,6,hospital,True,-3.7370986137564834,-38.58976551272728,Hospital Distrital Evandro Ayres de Moura
+367447880,Fortaleza,,60455-760,Rua Professor Armando Farias,6,bank,True,-3.74454965,-38.5770968,Banco Santander
+370270323,Fortaleza,1290,,Rua Capitão Francisco Pedro,6,university,True,-3.748617170894537,-38.55195587884501,Campus de Porangabuçu
+376750068,Fortaleza,2840,,Avenida Bezerra de Menezes,6,school,True,-3.735427197123097,-38.569753040614366,Colégio Santa Isabel
+399133250,Fortaleza,2513,60325-004,Avenida Bezerra de Menezes,6,pharmacy,True,-3.736548055516616,-38.56709829856718,Extrafarma
+401472109,Fortaleza,166,60356-830,Rua Cândido Maia,6,pharmacy,True,-3.73783845,-38.590318450000005,Farmácia Frota
+401882585,Fortaleza,100,,Rua Moreira de Sousa,6,restaurant,True,-3.73725885409868,-38.5667620315536,Restaurante Estaleiro North
+424778821,Fortaleza,,60350350,Rua Anário Braga,6,school,True,-3.7371509385078303,-38.58802577973958,E.E.F.M José Bezerra de Menezes
+428120562,Fortaleza,,,Rua Professor Anacleto,6,pharmacy,True,-3.7374384219222576,-38.55209309842622,Farmácia Santa Branca
+436414446,Fortaleza,780,60361-010,Rua Padre Perdigão Sampaio,6,school,True,-3.744217898827816,-38.594423064668206,EEFM Antonio Bezerra
+436425121,Fortaleza,5047,60356-001,Avenida Mister Hull,6,pharmacy,True,-3.7397711636147077,-38.589556601356975,Farmácia Pague Menos
+497236739,Fortaleza,5607,60360-845,Avenida Mister Hull,6,pharmacy,True,-3.740402625680402,-38.59447546567819,Farmalima
+497240760,Fortaleza,379,60360-415,Rua Martins Neto,6,school,True,-3.740781507349817,-38.58910761609688,E.E.F. Patronato da Sagrada Familia
+498591892,Fortaleza,1349,60360-561,Rua Coronel Matos Dourado,6,school,True,-3.7484530270751835,-38.584183290033224,EEEP Júlia Giffoni
+548978944,Fortaleza,6670,,Avenida Américo Barreira,6,restaurant,True,-3.7664551296815207,-38.568887493438304,Sabor da Carne
+548978989,Fortaleza,6670,,Avenida Américo Barreira,6,fast_food,True,-3.767641050000001,-38.5703272,Habib's Parangaba
+554113725,Fortaleza,2670,60450-175,Rua General Bernardo de Figueiredo,6,school,True,-3.74122911429566,-38.56148252017961,EEFM Santo Afonso
+554114819,Fortaleza,1130,,Rua Professor Lino Encarnação,6,school,True,-3.7453506269506094,-38.56009014839114,EMEIF Monsenhor Linhares
+554115547,Fortaleza,675,,Rua Taváres Iracema,6,school,True,-3.748440039474404,-38.557358499673775,E.M.E.I.F. Antônio Sales
+554118250,Fortaleza,630,60450340,Rua Professor Anacleto,6,school,True,-3.7394032723744686,-38.552219558412055,EEFM Antonio Sales
+557152309,Fortaleza,571,,Rua Azevedo Bolão,6,restaurant,True,-3.7351804214188173,-38.54962124569256,Ordones
+558624677,Fortaleza,1450,60430-160,Rua Alexandre Baraúna,6,school,True,-3.74527425,-38.554277549999995,EMEIF São Raimundo
+567608589,Fortaleza,,,Rua Professor Lino Encarnação,6,restaurant,True,-3.7364867221240967,-38.56149427143171,Restaurante Alex
+587930202,,757,,Rua Monsenhor Furtado,6,school,True,-3.745761259104662,-38.54847702189636,EEFM Felix de Azevedo
+587930205,,759,,Rua Monsenhor Furtado,6,kindergarten,True,-3.7458856,-38.5487164,Creche Escola Aprisco
+587930206,Fortaleza,740,,Rua Monsenhor Furtado,6,dentist,True,-3.7450926,-38.548539649999995,Centro de Especialidades Odontológicas
+599930117,Fortaleza,,,Avenida Jovita Feitosa,6,restaurant,True,-3.7380574986354143,-38.54881252919368,Espetinho do Ronaldo
+626454334,Fortaleza,,,Avenida Mister Hull,6,bank,True,-3.737278034188374,-38.577913192288,Caixa Economica Federal
+627853449,Fortaleza,5506,60356-682,Avenida Mister Hull,6,pharmacy,True,-3.739595700114562,-38.593763850400755,Pague Menos
+632532078,Fortaleza,4,60356-001,Rua Guarani,6,school,True,-3.7580612617268025,-38.57746269197209,EEFM Antonieta Siqueira
+635691334,Fortaleza,1001,,Avenida Bezerra de Menezes,6,bank,True,-3.7338788,-38.553713650000006,Caixa Econômica Federal
+642670132,Fortelaza,1355,60.450-000,Avenida Engenheiro Humberto Monte,6,school,True,-3.747919363655014,-38.56205339013173,Colégio Christus Parquelândia I
+653067239,Fortaleza,,,Avenida Mister Hull,6,cafe,True,-3.736804113774933,-38.572942966110176,Delicias de Trigo
+7838858,Fortaleza,155,,Avenida Lineu Machado,6,hospital,True,-3.7622146925144793,-38.573637462850776,Hospital e Maternidade Doutora Zilda Arns Neumann
+8126347,Fortaleza,,,Rua Padre Perdigão Sampaio,6,school,True,-3.738454813959261,-38.59527827690474,EMEIF Joaquim Nogueira
+8126348,Fortaleza,,,Rua Vicente de Paula,6,university,True,-3.7386294819056727,-38.59822875266298,Faculdade Ateneu Campus Antonio Bezerra
+2297816788,Fortaleza,674,,Rua César Correia,8,fast_food,True,-3.7114828,-38.5732027,Pastel & Cia
+4052064311,Fortaleza,1130,,Avenida Dom Aloísio Lorscheider,8,hospital,True,-3.7156165,-38.5973174,Gonzaguinha da Barra do Ceará
+4450073422,Fortaleza,9,,Rua G,8,hospital,True,-3.7167553,-38.6017192,UPA Dr. Fernando Guanabara
+4476900785,Fortaleza,1130,,Avenida Dom Aloísio Lorscheider,8,hospital,True,-3.7156585,-38.5973277,Hospital Distrital Gonzaga Mota Barra do Ceará
+4477033016,Fortaleza,3400,,Avenida Francisco Sá,8,hospital,True,-3.7131643,-38.5694373,Sopai Hospital Infantil (Francisco Sá)
+6386706660,fortaleza,260,60346-196,Rua 02,8,bar,True,-3.7080879,-38.5902006,Trupe Pizzaria
+6428949446,Fortaleza,1076,60346-372,Avenida Major Assis,8,school,True,-3.723329,-38.5886685,EM PROFESSOR JOSÉ PARSIFAL BARROSO
+193187815,Fortaleza,5445,,Avenida Francisco Sá,8,hospital,True,-3.712666177404033,-38.57301349816832,Hospital Fernandes Távora
+220685651,Fortaleza,973,,Rua César Correia,8,school,True,-3.7139454954663407,-38.57357886054271,Colégio Presidente Médici
+220689267,Fortaleza,1300,,Rua Francisco Calaça,8,hospital,True,-3.713389743663911,-38.57311070084178,CRIO - Centro Regional Integrado De Oncologia
+258375894,Fortaleza,,,Avenida L,8,school,True,-3.711585047698976,-38.59964019919626,Escola de Ensino Médio Liceu Vila Velha
+477378519,Fortaleza,7221,60330875,Avenida Francisco Sá,8,college,True,-3.7077604247700404,-38.58459266727962,SENAI Barra do Ceará
+628700734,Fortaleza,,,Rua Doutor Quixadá Felício,8,school,True,-3.71076639316658,-38.59464063685555,Colégio Maria Menezes de Serpa
+686856933,Fortaleza,199,,Rua São Raimundo,8,school,True,-3.709436140744627,-38.5533391945981,Centro Educacional dom Hélio Campos
+627226839,Fortaleza,81,,Rua Dragão do Mar,4,cafe,True,-3.7219385,-38.5205075,Café Santa Clara
+2021684439,,,,Rua Mário Studart,4,fast_food,True,-3.7226626,-38.5517431,Derly Pane
+4477147298,Fortaleza,1722,,Rua Barão do Rio Branco,4,hospital,True,-3.7333553,-38.5305265,Hospital Prontomédico
+4986760121,,1042,,Rua Liberato Barroso,4,fast_food,True,-3.7277933,-38.5299935,Fred's Lanches
+5141603879,Fortaleza,950,60320350,Rua Eretides Martins,4,fast_food,True,-3.727746,-38.5600485,Açaí do Carlim
+5141663508,Fortaleza,1185,,Avenida Padre Anchieta,4,restaurant,True,-3.730497,-38.5518611,Cardinale Pizzaria
+5150672925,Fortaleza,4083,60310-001,Avenida Francisco Sá,4,bank,True,-3.7163495,-38.5612554,Banco Bradesco
+5150672930,,4000,60310-001,Avenida Francisco Sá,4,fast_food,True,-3.7160046,-38.5611865,Bebelu Sanduíches
+5150672931,Fortaleza,3907,60310-001,Avenida Francisco Sá,4,bank,True,-3.7169869,-38.5590113,Banco do Brasil
+5150672932,Fortaleza,3832,60310-001,Avenida Francisco Sá,4,bank,True,-3.7168824,-38.5585969,Caixa Econômica Federal
+5482852723,,1526,,Rua Princesa Isabel,4,hospital,True,-3.7340998,-38.537937,Hospital e Maternidade José Martiniano de Alencar
+5859497680,,,,Avenida Filomeno Gomes,4,ice_cream,True,-3.7225789,-38.5409445,Castelinho
+5909719013,Fortaleza,860 lj 01,60010-281,Avenida Filomeno Gomes,4,dentist,True,-3.7225455,-38.5413189,Dr Paulo
+5909751066,Fortaleza,1808,60010-281,Avenida Francisco Sá,4,restaurant,True,-3.7223923,-38.5418345,Frango do Loiro
+5909782193,Fortaleza,841,60010-281,Avenida Filomeno Gomes,4,fast_food,True,-3.7225365,-38.5409352,Bom Lanche Arthur
+5909791785,Fortaleza,825,60010-281,Avenida Filomeno Gomes,4,fast_food,True,-3.7224862,-38.5409238,Multilanches
+5955919973,Fortaleza,480,60110-300,Rua João Cordeiro,4,post_office,True,-3.7245898,-38.5129024,Correios
+5955919979,Fortaleza,470,60110-300,Rua João Cordeiro,4,fast_food,True,-3.7245457,-38.5128447,Lanchonete 3 Tesouros Marajoara
+6133536886,,60,,Praça Visconde de Pelotas,4,restaurant,True,-3.7269906,-38.5152991,Bar do Cazuza
+6252203585,,274,,Rua Pessoa Anta,4,bank,True,-3.7210409,-38.5204967,Bradesco
+6380696549,Fortaleza,137,60035110,Duque de Caxias,4,cafe,True,-3.7332344,-38.5258938,Padaria Romana
+6423467739,Fortaleza,1507,60030161,Rua Liberato Barroso,4,restaurant,True,-3.7246412,-38.5405568,Vó Francy  - Almoço e Lanches
+6431640148,Fortaleza,643,,Avenida Filomeno Gomes,4,fast_food,True,-3.7205835,-38.5411938,Casa de Lanches
+48485248,Fortaleza,1,60010700,Praça Gustavo Barroso,4,school,True,-3.7244145252166354,-38.541110477408296,Liceu do Ceará - Jacarecanga
+243219269,Fortaleza,108,,Rua Dragão do Mar,4,bar,True,-3.721995960308338,-38.52003724453236,Chopp do Bexiga
+243788066,Fortaleza,60,,Avenida Heráclito Graça,4,hospital,True,-3.7341480942024967,-38.52406449411161,Hospital Infantil Luis França
+246471855,Fortaleza,833,,Rua Costa Barros,4,hospital,True,-3.728518954595598,-38.51610274494591,Hospital São Camilo Cura D'ars
+251808037,fortaleza,181,60336-235,Rua São Bernardo,4,school,True,-3.715308595680684,-38.57279726822589,Colégio Manuel da Silva
+258491132,Fortaleza,545,,Avenida Imperador,4,hospital,True,-3.726110068382404,-38.53356333562667,Hospital Geral César Cals
+316474478,Fortaleza,1816,,Rua Barão do Rio Branco,4,hospital,True,-3.7341324208918203,-38.53122401496766,Hospital Instituto José Frota IJF
+370209379,Fortaleza,56,,Avenida Santos Dumont,4,school,True,-3.7290709500000006,-38.52297955000001,Colégio Estadual Justiniano de Serpa
+443196828,Fortaleza,158,,Avenida Presidente Castelo Branco,4,restaurant,True,-3.723422521143376,-38.521525942087216,Pepe Nero Bistrô
+473170977,Fortaleza,891,60110-140,Rua Nogueira Acioli,4,school,True,-3.7318142394345837,-38.517103766453964,Instituto Brasil Estados Unidos - IBEU
+474945817,,,,Avenida Bezerra de Menezes,4,pharmacy,True,-3.732326582530345,-38.54995282307314,Extrafarma
+492443128,,699,60140-061,Avenida Heráclito Graça,4,restaurant,True,-3.7351472969769293,-38.51855824177397,Rei do Baião
+525727768,,760,,Avenida Heráclito Graça,4,pub,True,-3.735836159655981,-38.51786173025606,Serpentina Bar e Cultura
+574779203,Fortaleza,1280,60010690,Avenida Padre Ibiapina,4,college,True,-3.7264456970801407,-38.54149808936215,SENAI Jacarecanga
+576032891,Fortaleza,,,Rua Barbara de Alencar,4,bank,True,-3.734602082879432,-38.52367801912271,Bradesco
+598354370,Fortaleza,850,60160-280,Rua Costa Barros,4,school,True,-3.729129649293002,-38.51635235732065,Colégio Academos
+625957980,Fortaleza,184,60010-281,Avenida Filomeno Gomes,4,university,True,-3.7243245294477476,-38.54204267991599,UNIFAMETRO - Complexo Odontológico
+625965549,Fortaleza,708,60010-281,Avenida Filomeno Gomes,4,restaurant,True,-3.72125757880233,-38.541370770818524,Sabor & Tempero - Marmitaria e Self Service
+626022242,Fortaleza,180,60010480,Rua Carneiro da Cunha,4,university,True,-3.723998089593138,-38.542843525554865,UNIFAMETRO - Campus Carneiro Cunha
+626673485,Fortaleza,500,60010260,Rua Conselheiro Estelita,4,university,True,-3.7254092614374588,-38.54021952869569,UNIFAMETRO - Campus Conselheiro Estelita
+630807982,Fortaleza,714,60165-010,Avenida Monsenhor Tabosa,4,restaurant,True,-3.724194056647494,-38.51278428798332,Varanda Tropical
+646969955,Fortaleza,101,,Avenida Duque de Caixas,4,university,True,-3.733857481359271,-38.52520498920374,Centro Universitário Estácio do Ceará
+651546987,Fortaleza,355,60110-140,Rua Nogueira Acioli,4,restaurant,True,-3.7270484501078687,-38.515836807180186,Restaurante Zé Rodrigues
+678118891,Fortaleza,1579,,Rua Guilherme Rocha,4,restaurant,True,-3.723231717791135,-38.54001678359678,Panelada Do Fabiano
+681500632,Fortaleza,110,,Avenida Filomeno Gomes,4,university,True,-3.7235980020474067,-38.54261936088326,UNIFAMETRO - Unidade IV
+682015645,Fortaleza,1243,60010690,Rua Padre Ibiapina,4,university,True,-3.72628801365807,-38.54023274435429,UNIFAMETRO - Campus Padre Ibiapina
+682747164,Fortaleza,264,,Rua Conselheiro Estelita,4,university,True,-3.723177505578952,-38.539338359716254,FAMETRO - Campus Guilherme Rocha
+683681206,Fortaleza,"860, lj 04",60010-281,Avenida Filomeno Gomes,4,restaurant,True,-3.7224679120269673,-38.54152525578661,Trópicos Lanches
+685446477,Fortaleza,1503,60030161,Rua Liberato Barroso,4,university,True,-3.7247751591883964,-38.54048799409706,UNIFAMETRO - Clínica Integrada de Saúde Unifametro
+685448430,Fortaleza,1600,60010270,Rua Guilherme Rocha,4,pharmacy,True,-3.7228323879681544,-38.54015258242121,Droga For
+6958347,,,,Avenida Santos Dumont,4,school,True,-3.7303161650164807,-38.51856271241853,Colégio Militar de Fortaleza
+7738783,Fortaleza,826,,Avenida Heráclito Graça,4,university,True,-3.7354213009563346,-38.517680449910365,Faculdade Ari de Sá
+990222763,Fortaleza,927,60040-531,Avenida 13 de Maio,5,pharmacy,True,-3.7507632,-38.5278469,Extrafarma
+1942211027,Fortaleza,2750,60025-205,Rua Padre Miguelino,5,bar,True,-3.7423063,-38.5350851,Pitombeira Bar
+1947380531,,53,,Rua Paulino Nogueira,5,fast_food,True,-3.7437733,-38.5378959,Raízes do Açaí
+1947381919,,,,Rua Nossa Senhora dos Remédios,5,fast_food,True,-3.7429675,-38.5387812,Galé
+3199960693,Fortaleza,38,60411-260,Rua Deputado Oswaldo Studart,5,fast_food,True,-3.7518543,-38.5267788,Subway
+3612641050,Fortaleza,,,Rua Waldery Uchôa,5,cafe,True,-3.7424818,-38.5375983,Café Vinyle
+3683196642,Fortaleza,1936,,Avenida Luciano Carneiro,5,restaurant,True,-3.7650248,-38.536862,Caravelle
+4052106006,,299,,Rua Guilherme Perdigão,5,hospital,True,-3.7748219,-38.5722419,Centro de Assistência a Criança Lúcia de Fátima - Croa
+4253064994,,35,,Travessa Aloísio Mamede,5,fast_food,True,-3.7791669,-38.5566409,True Açaí
+4281842691,,1043,60040-531,Avenida 13 de Maio,5,pub,True,-3.7500419,-38.5287018,Paladar
+4369893092,,3232,,Avenida da Universidade,5,school,True,-3.7437198,-38.5417709,Escola Técnica CEPEP
+4413044185,Fortaleza,721,,Avenida Luciano Carneiro,5,restaurant,True,-3.7546655,-38.533263,Dona Dê
+4437917093,,,,Rua Monsenhor Salazar,5,restaurant,True,-3.7569791,-38.520344,Churrascaria Boi Negro
+4468608131,Fortaleza,s/n,,Rua Holanda,5,school,True,-3.8003362,-38.5611549,E.E.E.P. Leonel Brizola
+4470149545,Fortaleza,4820,,Avenida Doutor Silas Munguba,5,fast_food,True,-3.7957388,-38.5326015,Bebelu (Passaré)
+4470316550,Fortaleza,395,,Avenida General Osório de Paiva,5,school,True,-3.7759655,-38.5668303,Colégio Lourenço Filho
+4470344502,Fortaleza,1371,,Avenida General Osório de Paiva,5,bank,True,-3.7803472,-38.5735387,Banco do Brasil (Parangaba)
+4470365419,Fortaleza,311,,Avenida Augusto dos Anjos,5,fast_food,True,-3.7718093,-38.5714189,Hang Lanche PArangaba
+4470649432,Fortaleza,1170,,Avenida Godofredo Maciel,5,pharmacy,True,-3.7858093,-38.5668645,Drogafélix
+4470649433,Fortaleza,1152,,Avenida Godofredo Maciel,5,pharmacy,True,-3.7854186,-38.5667357,Extrafarma
+4470649434,,1155,,Avenida Godofredo Maciel,5,restaurant,True,-3.7857722,-38.5663953,Curva da Maminha
+4470649437,Fortaleza,1179,,Avenida Godofredo Maciel,5,bar,True,-3.7864716,-38.5665771,Casa De Show Taipa
+4471947550,Fortaleza,341,,Rua Elcias Lopes,5,pharmacy,True,-3.7706425,-38.5567029,Farmácia Garcia
+4471947555,Fortaleza,1503,,Rua Almirante Rubim,5,pub,True,-3.7705574,-38.5563776,Bar Estrela Dalva
+4471947556,Fortaleza,1503,,Rua Almirante Rubim,5,fast_food,True,-3.7704478,-38.5563614,JC Lanches
+4471947570,Fortaleza,,,Rua César Rosas,5,restaurant,True,-3.7690914,-38.5548911,Comida Caseira
+4472084159,Fortaleza,383,,Rua Elvira Pinho,5,hospital,True,-3.766824,-38.5558652,Hospital da Criança (Montese)
+4472084175,Fortaleza,s/n,,Avenida João Pessoa,5,bank,True,-3.7731307,-38.5620157,Banco do Brasil (Parangaba)
+4472084176,Fortaleza,14,,Rua 7 de Setembro,5,bank,True,-3.7730848,-38.5623661,Bradesco (Parangaba)
+4472084178,Fortaleza,32,,Rua 7 de Setembro,5,bank,True,-3.7732331,-38.5626209,Itaú (Parangaba)
+4472084181,Fortaleza,132,,Rua 7 de Setembro,5,bank,True,-3.7737664,-38.5632828,Caixa Econômica Federal (Parangaba)
+4472084186,Fortaleza,212,,Rua 7 de Setembro,5,pharmacy,True,-3.7742502,-38.5638632,Dose Certa (Praça Parangaba)
+4472084187,Fortaleza,152,,Rua Caio Prado,5,university,True,-3.7743314,-38.5626953,FLATED (Faculdade Latino-Americana)
+4472820218,Fortaleza,1062,,Avenida General Osório de Paiva,5,fast_food,True,-3.778547,-38.5713564,Giga Pont Pizzas e Lanches
+4472820220,Fortaleza,101,,Rua Júlio Braga,5,school,True,-3.7781843,-38.57299,E.E.F.M. General Eudoro Corrêa
+4472820221,Fortaleza,101,,Rua Júlio Braga,5,school,True,-3.7783451,-38.572558,Ceja (Parangaba)
+4474425526,Fortaleza,1590,,Rua Alberto Magno,5,restaurant,True,-3.7677736,-38.5525008,Xavante Júnior's
+4474425527,Fortaleza,1660,,Rua Alberto Magno,5,pharmacy,True,-3.7683387,-38.5527061,Pague Menos (Montese)
+4474425529,Fortaleza,803,,Rua Barão de Sobral,5,restaurant,True,-3.7679043,-38.5522602,Picanha Do Montese
+4474425530,Fortaleza,108,,Rua Equador,5,restaurant,True,-3.7690767,-38.5508763,Restaurante Galinha Caipira
+4474425532,Fortaleza,918,,Rua 15 de Novembro,5,restaurant,True,-3.7704117,-38.5520938,Rotisserie Rooster
+4474425534,Fortaleza,119,,Rua Três Marias,5,restaurant,True,-3.7689426,-38.5510285,Pannettu's Pastel
+4474425536,Fortaleza,1668,,Rua 15 de Novembro,5,bar,True,-3.7709732,-38.5504658,Gem Buffet
+4474425549,Fortaleza,108,,Rua Equador,5,restaurant,True,-3.7691544,-38.5509117,Brisa do Montese
+4474440262,Fortaleza,799,,Rua Elcias Lopes,5,restaurant,True,-3.7719161,-38.5530105,Confeitaria e Lanchonete O Brasileiro
+4474440265,Fortaleza,615,,Rua Elcias Lopes,5,restaurant,True,-3.7713724,-38.5546002,Churrascaria Nosso Sabor
+4474440267,Fortaleza,701,,Rua Dom Carloto Távora,5,school,True,-3.7706311,-38.5537526,Colegio Ateneu (Montese)
+4475213914,Fortaleza,157,,Rua Júlio Verne,5,fast_food,True,-3.77611,-38.5511659,Bolos e Salgados Terezinha
+4475213916,Fortaleza,900,,Rua Equador,5,fast_food,True,-3.7754875,-38.552976,Rei da Panelada
+4475213917,Fortaleza,820,,Rua Equador,5,restaurant,True,-3.7750112,-38.5528179,Lanchonete Bom Sabor
+4475213930,Fortaleza,990,,Rua Galileu,5,restaurant,True,-3.7762804,-38.5532429,Dedé do Frango
+4475310499,Fortaleza,1066,,Rua Peru,5,school,True,-3.7763289,-38.5524533,Colégio Santa Teresa
+4475310503,Fortaleza,365,,Rua Galileu,5,restaurant,True,-3.7765671,-38.5524238,Skina da Maminha
+4475362430,Fortaleza,39,,Rua Governador João Carlos,5,restaurant,True,-3.7772708,-38.5511396,Curva Do Baião
+4475362431,Fortaleza,63,,Rua Governador João Carlos,5,restaurant,True,-3.7773219,-38.5511524,Curva Do Feijão
+4475362443,Fortaleza,1409,,Avenida Doutor Silas Munguba,5,restaurant,True,-3.7835136,-38.5539479,Marmitaria da Tia
+4475408789,Fortaleza,1555,60741-000,Avenida Doutor Silas Munguba,5,fast_food,True,-3.783901,-38.5536775,Açailândia Parangaba
+4475408791,Fortaleza,400,,Rua Doutor Justa Araújo,5,pharmacy,True,-3.7801487,-38.5515309,Farmácia Lidoya
+4475408795,Fortaleza,65,,Rua Doutor Justa Araújo,5,restaurant,True,-3.7766823,-38.5501649,Curva da Maminha
+4475408796,Fortaleza,,,Rua Governador João Carlos,5,restaurant,True,-3.7763618,-38.550787,Aki Delicias Pastelaria
+4475772437,Fortaleza,2257,,Avenida Doutor Silas Munguba,5,bar,True,-3.7851329,-38.5521066,Espaço Caras
+4475772445,Fortaleza,2741,,Avenida Doutor Silas Munguba,5,pharmacy,True,-3.78659,-38.5493284,Farmácias Aldesul (Serrinha)
+4475941063,Fortaleza,2790,,Avenida Doutor Silas Munguba,5,restaurant,True,-3.7872479,-38.548874,Churrascaria Sertões
+4475941066,Fortaleza,2800,,Avenida Doutor Silas Munguba,5,restaurant,True,-3.7876045,-38.5482131,Estrela Do Norte Restaurante
+4475941068,Fortaleza,2800,,Avenida Doutor Silas Munguba,5,restaurant,True,-3.7873985,-38.5485073,Potiguar Lanches
+4475941079,Fortaleza,7898,,Avenida Bernardo Manuel,5,restaurant,True,-3.7882333,-38.5483873,Restaurante Coma Bem
+4476004512,Fortaleza,3117,,Avenida Doutor Silas Munguba,5,pharmacy,True,-3.7881098,-38.5472968,Farmácia Dede Brasil
+4476004529,Fortaleza,,,Avenida Bernardo Manuel,5,pub,True,-3.7901908,-38.548658,Bar Iranildo
+4476004537,Fortaleza,8550,,Avenida Bernardo Manuel,5,fast_food,True,-3.7943263,-38.5502649,Babêu Lanches
+4476039785,Fortaleza,8798,,Avenida Bernardo Manuel,5,restaurant,True,-3.796534,-38.551004,Rei do Camarão
+4477147297,Fortaleza,1367,,Avenida Tristão Gonçalves,5,hospital,True,-3.7338993,-38.5350333,Hospital SOS
+4477171028,Fortaleza,375,,Rua Eusébio de Souza,5,hospital,True,-3.7393979,-38.5257209,Clínica SiM (Fátima)
+4478140005,Fortaleza,s/n,,Avenida General Osório de Paiva,5,bank,True,-3.7868515,-38.5837312,Caixa Econômica Federal (Vila Peri / Terminal Siqueira)
+4478140008,Fortaleza,2046,,Avenida General Osório de Paiva,5,restaurant,True,-3.7842014,-38.5804222,Skina Grill
+4478140009,Fortaleza,1880,60730-088,Avenida General Osório de Paiva,5,restaurant,True,-3.7836035,-38.579464,Pizzaria La Papini
+4478140010,Fortaleza,1993,,Avenida General Osório de Paiva,5,restaurant,True,-3.7845273,-38.5803143,Churrascaria Frango na Brasa
+4478140015,Fortaleza,1762,,Avenida General Osório de Paiva,5,fast_food,True,-3.782489,-38.5775907,Tatá Lanches
+4478140016,Fortaleza,1729,,Avenida General Osório de Paiva,5,restaurant,True,-3.7826766,-38.5772425,Restaurante e Pizzaria Ximenes
+4478140025,Fortaleza,,,Avenida General Osório de Paiva,5,restaurant,True,-3.7816751,-38.5757096,Pizzaria Vitória
+4478140026,Fortaleza,1612,,Avenida General Osório de Paiva,5,restaurant,True,-3.7815842,-38.5761836,Varandão da Vila
+4478140027,Fortaleza,1770,,Avenida General Osório de Paiva,5,restaurant,True,-3.7816425,-38.5762746,Dom Romeo
+4478140029,Fortaleza,1274,,Avenida General Osório de Paiva,5,bank,True,-3.7798391,-38.5735334,BNB (Parangaba)
+4478140031,Fortaleza,1372,,Avenida General Osório de Paiva,5,restaurant,True,-3.7800255,-38.5737365,Pastelaria Verdi Cana
+4478175154,Fortaleza,1715,,Rua Betel,5,school,True,-3.7945123,-38.5540291,E.M.E.I.F. Projeto Nascente
+4482106025,Fortaleza,1581,,Avenida Borges de Melo,5,pharmacy,True,-3.7581627,-38.5324793,Pague Menos (Borges de Melo)
+4482462530,Fortaleza,1617,,Avenida Borges de Melo,5,restaurant,True,-3.7578613,-38.5328521,Skina do Lanche (Força do Guaraná)
+4482462531,Fortaleza,1611,,Avenida Borges de Melo,5,restaurant,True,-3.7579428,-38.5327482,Salada Mista
+4482462535,Fortaleza,888,,Rua Deputado Oswaldo Studart,5,restaurant,True,-3.7577173,-38.5320414,Restaurante Amuarama
+4482462542,Fortaleza,230,,Rua Alberto Montezuma,5,school,True,-3.7614606,-38.5316535,Colégio Antares
+4482462543,Fortaleza,450,,Rua Tertuliano Sales,5,restaurant,True,-3.7619839,-38.5313343,Recanto do Guerreiro
+4482462544,Fortaleza,441,,Rua Tertuliano Sales,5,restaurant,True,-3.7619271,-38.5310721,Bom Sabor
+4482462545,,441,,Rua Tertuliano Sales,5,restaurant,True,-3.7618135,-38.5310457,Selfservice da Lúcia
+4482462547,Fortaleza,205,,Rua Francisco Lorda,5,restaurant,True,-3.762278,-38.5311799,Ponto Do Lanche
+4482462548,Fortaleza,205,,Rua Francisco Lorda,5,pharmacy,True,-3.7622415,-38.5311677,Farma Castro
+4482462549,Fortaleza,205,,Rua Francisco Lorda,5,restaurant,True,-3.7622679,-38.5310599,Ponto do Almoço
+4482477666,Fortaleza,218,,Rua Engenheiro Edmundo Almeida Filho,5,school,True,-3.7624565,-38.5297935,Espaço Integrado Tia Vilma
+4482894128,Fortaleza,655,,Rua Jorge Acúrcio,5,school,True,-3.7664513,-38.532083,E.E.F.M. Prof. José Aurélio Câmara
+4482894130,Fortaleza,770,,Rua Jorge Acúrcio,5,restaurant,True,-3.76631,-38.5322883,Siri Cascudo
+4482894133,Fortaleza,s/n,,Rua Almirante Rufino,5,bar,True,-3.7679028,-38.5335341,Vila União Clube
+4482991562,Fortaleza,473,,Rua Alberto Montezuma,5,restaurant,True,-3.7677615,-38.533842,Bar e Pizzaria Ninildo
+4482991563,Fortaleza,474,,Rua Almirante Rufino,5,restaurant,True,-3.7677121,-38.5340367,Esquina dos Amigos Bar e Churrascaria
+4482991565,Fortaleza,476,,Rua Alberto Montezuma,5,restaurant,True,-3.7682029,-38.5342597,Pizzaria e Esfiharia União
+4482991566,Fortaleza,444,,Rua Alberto Montezuma,5,pub,True,-3.7674754,-38.5339163,Bar Caminho de Casa (PEDIM)
+4483022005,Fortaleza,347,,Rua Lineu Juca,5,pharmacy,True,-3.7685554,-38.5344318,Farmácia Local
+4483047629,Fortaleza,870,,Rua Abel Garcia,5,restaurant,True,-3.7671563,-38.5349663,Marle Lanches
+4483047631,Fortaleza,597,,Rua Almirante Rufino,5,fast_food,True,-3.7674913,-38.5351431,Rua 4 Açaiteria
+4483047637,Fortaleza,700,,Rua Almirante Rufino,5,restaurant,True,-3.7669419,-38.5358705,Restaurante Capistrano
+4483064758,Fortaleza,s/n,,Rua Jorge Acúrcio,5,restaurant,True,-3.7706609,-38.5340613,Villa Pizza
+4483064761,Fortaleza,1410,,Rua Lauro Vieira Chaves,5,restaurant,True,-3.7733186,-38.5317037,Restaurante São Luis
+4483070906,Fortaleza,,,Avenida Aviador Celso Tinoco,5,school,True,-3.7735734,-38.527393,E.M.E.I.F. Haroldo Jorge Braun Vieira
+4483107847,Fortaleza,2470,,Avenida Luciano Carneiro,5,school,True,-3.7700306,-38.5384376,Centro Juvenil Dom Bosco
+4483107849,Fortaleza,39,,Rua Vicente Spindola,5,school,True,-3.7691865,-38.5386606,Colégio Auxiliadora
+4483107856,Fortaleza,2092,,Avenida Luciano Carneiro,5,pharmacy,True,-3.76626,-38.5372316,Farmácia Portela
+4483119344,Fortaleza,2010,,Avenida Luciano Carneiro,5,school,True,-3.7659093,-38.5371352,Colégio Paola Pellanda
+4483119348,Fortaleza,1970,,Avenida Luciano Carneiro,5,restaurant,True,-3.7653071,-38.5369866,Villa Della Pizza
+4483119351,Fortaleza,1999,,Rua Desembargador Praxedes,5,restaurant,True,-3.7647474,-38.5370556,Meu Sertão Meu Bar
+4483119352,Fortaleza,1919,,Rua Desembargador Praxedes,5,restaurant,True,-3.7644649,-38.5378961,Espertinho do Cabeça
+4483146695,Fortaleza,,,Rua Epaminondas Frota,5,restaurant,True,-3.7655597,-38.5330213,Gol de Placa
+4483146698,Fortaleza,595,,Rua Abelardo Marinho,5,school,True,-3.7633751,-38.5341373,E.M.E.I.F. Papa João XXIII
+4483175985,Fortaleza,4444,,Avenida dos Expedicionários,5,bank,True,-3.7638427,-38.5406962,Itaú
+4483176901,Fortaleza,4880,,Avenida dos Expedicionários,5,pharmacy,True,-3.7620213,-38.5404197,Extrafarma (Expedicionários)
+4483201294,Fortaleza,5380,,Avenida dos Expedicionários,5,restaurant,True,-3.7667798,-38.5419122,Pranzo
+4483201296,Fortaleza,5360,,Avenida dos Expedicionários,5,pharmacy,True,-3.766654,-38.5419529,Farmácia Droga Lira
+4483201299,Fortaleza,5538,,Avenida dos Expedicionários,5,bar,True,-3.7683335,-38.5423676,Arcus Buffet
+4483201303,Fortaleza,5021,,Avenida dos Expedicionários,5,restaurant,True,-3.7689622,-38.5422375,Restaurante Paz e Dantas
+4483209490,Fortaleza,1064,,Rua Irmã Bazet,5,restaurant,True,-3.7671246,-38.5488805,Churrascaria O Maia
+4483209491,Fortaleza,1064,,Rua Irmã Bazet,5,restaurant,True,-3.7670718,-38.5487666,Cantina
+4483209492,Fortaleza,505,,Rua Isaie Bóris,5,restaurant,True,-3.7676844,-38.5496895,Churrascaria Veríssimo
+4483211313,Fortaleza,827,,Rua Teodorico Barroso,5,school,True,-3.7659076,-38.5453963,Colégio Agnus
+4484083842,Fortaleza,1336,,Avenida José do Patrocínio,5,restaurant,True,-3.7653695,-38.5462806,Pizzaria Mamma Mia
+4484083845,Fortaleza,1072,,Rua Vasco da Gama,5,restaurant,True,-3.7644879,-38.5459559,Casa da Sogra Bar e Restaurante
+4484125441,Fortaleza,1910,,Avenida Professor Gomes de Matos,5,pub,True,-3.7677744,-38.5514063,JM Bar
+4484125446,Fortaleza,1869,,Avenida Professor Gomes de Matos,5,pharmacy,True,-3.7676514,-38.5509349,Extrafarma (Gomes de Matos)
+4484125453,Fortaleza,1415,,Rua Alberto Magno,5,bank,True,-3.7668972,-38.5515803,Banco do Brasil (Alberto Magno)
+4484212016,Fortaleza,880,,Avenida Gomes de Matos,5,restaurant,True,-3.7666001,-38.5507194,Fran Lanches
+4484212022,Fortaleza,1374,,Rua Alberto Magno,5,restaurant,True,-3.766038,-38.5511485,Bom Gosto
+4484212023,Fortaleza,s/n,,Rua Alberto Magno,5,restaurant,True,-3.7659203,-38.5510546,Tempero da Mãe
+4484212025,Fortaleza,1374,,Rua Alberto Magno,5,restaurant,True,-3.7659604,-38.5511002,Lanlan Salgaderia
+4484272440,Fortaleza,1577,,Avenida Gomes de Matos,5,restaurant,True,-3.7655028,-38.5491503,Shopping Pizza (Montese)
+4484272448,Fortaleza,1554,,Avenida Gomes de Matos,5,bank,True,-3.7650397,-38.5492334,Bradesco (Montese)
+4484295793,Fortaleza,913,,Rua Álvaro Fernandes,5,school,True,-3.7651487,-38.5480336,E.E.F.M. Marechal Humberto de Alencar Castelo Branco
+4484295794,Fortaleza,968,,Rua Álvaro Fernandes,5,restaurant,True,-3.7649317,-38.5479909,JD Restaurante e Pizzaria
+4484336470,Fortaleza,1005,,Rua Alberto Magno,5,restaurant,True,-3.7635478,-38.5486355,Luiz do Frango
+4484336472,Fortaleza,s/n,,Rua Alberto Magno,5,restaurant,True,-3.7635641,-38.5489741,Restaurante Sabores de Casa
+4484374130,Fortaleza,1157,,Avenida Gomes de Matos,5,bank,True,-3.7627775,-38.5468424,Itaú (Montese)
+4486069929,Fortaleza,1084,,Avenida Gomes de Matos,5,bank,True,-3.7623069,-38.5463614,Santander (Montese)
+4486159669,Fortaleza,1290,,Avenida Gomes de Matos,5,pharmacy,True,-3.763575,-38.547817,Farmácias FTB
+4486159671,Fortaleza,1243,,Avenida Gomes de Matos,5,fast_food,True,-3.7634391,-38.5474259,Zapp Lanches
+4486171054,Fortaleza,852,,Avenida Gomes de Matos,5,bank,True,-3.7605924,-38.5453108,Banco do Brasil (Montese)
+4486187491,Fortaleza,622,,Avenida Gomes de Matos,5,fast_food,True,-3.7588842,-38.5438641,Bebelu (Montese)
+4486190498,Fortaleza,50,,Avenida Gomes de Matos,5,bank,True,-3.7583471,-38.5434132,Itaú (Montese) - agência grande
+4486190500,Fortaleza,505,,Avenida Gomes de Matos,5,bank,True,-3.7582248,-38.5429194,BNB Banco do Nordeste (Montese)
+4486190501,Fortaleza,475,,Rua Professor Costa Mendes,5,fast_food,True,-3.7580326,-38.5428085,Rei do Sanduíche (Montese)
+4486195861,Fortaleza,445,,Avenida Gomes de Matos,5,bank,True,-3.7578753,-38.5426742,Caixa Econômica Federal (Montese)
+4486195864,Fortaleza,386,,Avenida Gomes de Matos,5,restaurant,True,-3.7573231,-38.5424512,Catatau Sucos e Sanduíches (Montese)
+4486195867,Fortaleza,302,,Avenida Gomes de Matos,5,restaurant,True,-3.7567301,-38.5419515,Bar Chá da Égua
+4486195868,Fortaleza,278,,Avenida Gomes de Matos,5,restaurant,True,-3.756553,-38.5418126,Red Black Sushi
+4486197447,Fortaleza,268,,Avenida Gomes de Matos,5,pub,True,-3.7564529,-38.541718,Beer Drinkers Bar
+4486197451,Fortaleza,209,,Avenida Gomes de Matos,5,restaurant,True,-3.7560847,-38.5411448,Ponto do Camarão
+4486197452,Fortaleza,193,,Avenida Gomes de Matos,5,restaurant,True,-3.7560148,-38.5410525,Bodega Arretada
+4486197453,Fortaleza,169,,Avenida Gomes de Matos,5,restaurant,True,-3.7559484,-38.5409942,Delícias do Paladar
+4486204670,Fortaleza,2078,,Rua Jorge Dumar,5,school,True,-3.754244,-38.5398675,E.M.E.I.F. Mozart Pinto
+4486204677,Fortaleza,161,,Rua Padre João Piamarta,5,school,True,-3.7572989,-38.5409838,Colégio Piamarta Montese
+4486204679,Fortaleza,415,,Rua Padre João Piamarta,5,school,True,-3.7590206,-38.5418608,Colégio Medalha Milagrosa
+4487036911,Fortaleza,7,,Rua Alberto Magno,5,pub,True,-3.7538588,-38.5404211,Skina Drink's
+4487039790,Fortaleza,18,,Rua Alberto Magno,5,restaurant,True,-3.7542331,-38.5407609,Point do Pratinho
+4487051595,Fortaleza,244,,Rua Ana Néri,5,restaurant,True,-3.7539224,-38.5417518,Churrascaria Rogério Grill
+4487057865,Fortaleza,s/n,,Rua Ana Néri,5,restaurant,True,-3.7539824,-38.5416917,Cantinho do Pastel
+4487057867,Fortaleza,100,,Rua Delmiro de Farias,5,restaurant,True,-3.7552185,-38.5416138,Império Gourmet Restaurante
+4487065268,Fortaleza,159,,Rua Delmiro de Farias,5,pub,True,-3.7549743,-38.5422908,Point Bar
+4487065269,Fortaleza,s/n,,Rua Delmiro de Farias,5,restaurant,True,-3.7555069,-38.5415934,Hot Frango
+4487079596,Fortaleza,120,,Rua Alberto Magno,5,restaurant,True,-3.7563607,-38.5427012,Taverna do Búfalo
+4487079597,Fortaleza,218,,Rua Samuel Uchôa,5,pharmacy,True,-3.7564811,-38.5428353,Drogafelix (Montese)
+4487079598,Fortaleza,110,,Rua Alberto Magno,5,restaurant,True,-3.7562375,-38.542559,Hot Frango
+4487125702,Fortaleza,123,,Rua Alberto Magno,5,school,True,-3.7573991,-38.5432913,E.E.F.M. Estado Do Paraná
+4487241948,Fortaleza,432,,Rua Alberto Magno,5,restaurant,True,-3.75961,-38.5454972,Espeto e Camarão
+4487316645,Fortaleza,656,,Rua Alberto Magno,5,restaurant,True,-3.7614306,-38.5470849,Mister Frango
+4487831827,Fortaleza,1232,,Rua Edite Braga,5,restaurant,True,-3.7605202,-38.5474562,Churrascaria Wagner
+4487831828,Fortaleza,770,,Rua Desembargador Praxedes,5,restaurant,True,-3.7604797,-38.5477672,Terrazzo Della Pizza
+4487833476,Fortaleza,670,,Rua Desembargador Praxedes,5,restaurant,True,-3.7600326,-38.5483355,Carneiro & Cia Montese
+4487833477,Fortaleza,568,,Rua Desembargador Praxedes,5,restaurant,True,-3.7602093,-38.5481853,Churrascaria Antonio Filho
+4487841689,Fortaleza,300,,Rua Desembargador João Firmino,5,restaurant,True,-3.7590058,-38.5510683,Espetinho Do Clébio
+4487848084,Fortaleza,4547,,Avenida João Pessoa,5,pharmacy,True,-3.7527401,-38.5495156,Pague Menos (João Pessoa )
+4487858995,Fortaleza,385,,Rua Professor Costa Mendes,5,restaurant,True,-3.7569396,-38.5443995,Crocantty Pizza
+4487858998,Fortaleza,392,,Rua Professor Costa Mendes,5,restaurant,True,-3.7566412,-38.5445003,Chef Gourmet
+4487863444,Fortaleza,s/n,,Rua Carlos Câmara,5,restaurant,True,-3.7502342,-38.5460768,Pizzaria DJ
+4487863445,Fortaleza,1758,,Rua Carlos Câmara,5,restaurant,True,-3.7506804,-38.5464833,China Garden
+4487863446,Fortaleza,868,,Rua Ana Néri,5,restaurant,True,-3.7501976,-38.5458206,Restaurante e Self Service O Aurélio
+4487865130,Fortaleza,809,,Rua Delmiro de Farias,5,restaurant,True,-3.7512281,-38.5467354,Ágape Pizzaria e Lanchonete 4 comentários
+4487865132,Fortaleza,740,,Rua Delmiro de Farias,5,restaurant,True,-3.7513662,-38.5459955,Gula Gula Lanches Pizzaria
+4487868105,Fortaleza,685,,Rua Delmiro de Farias,5,cafe,True,-3.7518854,-38.5458728,Cafe Ludico
+4487868107,Fortaleza,685,,Rua Delmiro de Farias,5,restaurant,True,-3.7521344,-38.5453149,Jullius Pizzaria
+4487868109,Fortaleza,579,,Rua Delmiro de Farias,5,restaurant,True,-3.7525546,-38.5451969,Pitaguari Lanches
+4487868118,Fortaleza,399,,Rua Ana Néri,5,restaurant,True,-3.7532155,-38.5428222,Ponto Espeto
+4487887588,Fortaleza,733,,Rua Major Weyne,5,restaurant,True,-3.7497765,-38.5432796,Hoje Tem Frango
+4487888111,Fortaleza,4717,,Avenida João Pessoa,5,restaurant,True,-3.7537619,-38.5504711,Churrascaria O Tio
+4490593784,Fortaleza,415,,Rua Vasco da Gama,5,restaurant,True,-3.7605913,-38.550772,Restô O Abel
+4490593785,Fortaleza,415,,Rua Vasco da Gama,5,pub,True,-3.7606234,-38.5507666,Bar do Abel
+4490603115,Fortaleza,318,,Rua Eugênio Gadelha,5,school,True,-3.7609713,-38.5504072,Escola Criando e Recriando
+4490603118,Fortaleza,2256,,Rua Julio César,5,restaurant,True,-3.7606102,-38.5517793,Brasa e Forno
+4490603119,Fortaleza,2266,,Rua Julio César,5,restaurant,True,-3.7607071,-38.5518671,Churrascaria e Pizzaria Brasa e Forno
+4490607070,Fortaleza,205,,Rua Desembargador João Firmino,5,restaurant,True,-3.7608823,-38.5524787,Pizzaria Damas
+4490607077,Fortaleza,429,,Rua Desembargador João Firmino,5,restaurant,True,-3.761508,-38.552987,Lanchonete Alternativa
+4492424526,Fortaleza,422,,Rua Alan Kardec,5,pub,True,-3.762765,-38.5528235,Genivaldo Bar
+4492475861,Fortaleza,566,,Rua Almirante Rubim,5,restaurant,True,-3.7633879,-38.5522975,Espetinho do Farrapo
+4492475862,Fortaleza,912,,Rua Euzébio de Queirós,5,school,True,-3.764052,-38.551669,Colégio Menino Jesus
+4492485302,Fortaleza,801,,Rua Euzébio de Queirós,5,fast_food,True,-3.7635676,-38.5509354,AC Lanches
+4492504316,Fortaleza,1106,,Rua Edite Braga,5,pub,True,-3.7650984,-38.5525909,Origem Bar e Restaurante
+4492504317,Fortaleza,566,,Rua Coronel Alexandrino,5,pub,True,-3.7648248,-38.5532934,Ponto Certo Bar
+4492504320,Fortaleza,752,,Rua Coronel Alexandrino,5,pub,True,-3.7657779,-38.551833,Bar César
+4492504322,Fortaleza,2071,,Rua Edite Braga,5,pub,True,-3.7665126,-38.5524739,Barzeiro's Spetim & Cervejas
+4492541255,Fortaleza,520,,Rua Romeu Martins,5,pub,True,-3.7654098,-38.5541545,Xica Rica Bar
+4492558453,Fortaleza,520,,Rua Romeu Martins,5,restaurant,True,-3.7653349,-38.5542457,Brothe's Bar e Grill
+4492583656,Fortaleza,561,,Rua Desembargador João Firmino,5,restaurant,True,-3.7641225,-38.5553749,Espetinho Do Robinho
+4492583657,Fortaleza,361,,Rua Coronel Alexandrino,5,restaurant,True,-3.763523,-38.5547929,Espetiscos Gourmet
+4492623390,Fortaleza,s/n,,Rua Zacarias Gondim,5,fast_food,True,-3.7648446,-38.557088,Reobote Pastelaria
+4492658207,Fortaleza,s/n,,Rua Zacarias Gondim,5,pub,True,-3.7655249,-38.5574968,Carlinhos Drink's
+4492719391,Fortaleza,s/n,,Rua Zacarias Gondim,5,fast_food,True,-3.7678921,-38.5584918,Lanches Self Service
+4492724840,Fortaleza,6475,,Avenida João Pessoa,5,university,True,-3.7670985,-38.5593625,IDJ - Instituto Dom José de Educação e Cultura
+4492760315,Fortaleza,6302,,Avenida João Pessoa,5,school,True,-3.7653153,-38.5592331,Colégio Elite
+4493380618,Fortaleza,65,,Rua Oscar Bezerra,5,restaurant,True,-3.7614536,-38.5576789,Pitty & Pink
+4493422626,Fortaleza,5771,,Avenida João Pessoa,5,restaurant,True,-3.7610924,-38.556915,Big Massa Pizzaria
+4493422630,Fortaleza,5772,,Avenida João Pessoa,5,university,True,-3.7608855,-38.5571941,Fateci
+4493490228,Fortaleza,5126,,Avenida João Pessoa,5,school,True,-3.756496,-38.5532911,E.E.F Educandario Santa Clara
+4493502956,Fortaleza,4754,,Avenida João Pessoa,5,fast_food,True,-3.7540807,-38.5510976,Gostosão Lanches
+4493505382,Fortaleza,4747,,Avenida João Pessoa,5,restaurant,True,-3.7540614,-38.5507738,Marmitaria da Tia
+4493528661,Fortaleza,4005,,Avenida João Pessoa,5,university,True,-3.7492761,-38.5464064,FAC Faculdades Cearenses Campos 2
+4493528663,Fortaleza,3929,,Avenida João Pessoa,5,school,True,-3.7486859,-38.5458619,Premium Educar
+4493543518,Fortaleza,3884,,Avenida João Pessoa,5,university,True,-3.7480328,-38.5457425,FAC Faculdade Cearense
+4493543526,Fortaleza,3777,,Avenida João Pessoa,5,pub,True,-3.747543,-38.544907,Gil Bar
+4493543527,Fortaleza,3761,,Avenida João Pessoa,5,pub,True,-3.7474507,-38.5448145,Bodega do Louro
+4493543529,Fortaleza,185,,Rua Padre Cícero,5,restaurant,True,-3.7462115,-38.5430939,Marmitaria O Van Van
+4494396731,Fortaleza,s/n,,Avenida João Pessoa,5,school,True,-3.7680052,-38.5599955,E.M.E.I.F. Cláudio Martins
+4575243997,Fortaleza,1504,,Rua Padre Miguelino,5,restaurant,True,-3.74217,-38.5348608,Pizza Planet
+4583370489,Fortaleza,2607,,Rua Senador Pompeu,5,school,True,-3.7411422,-38.5337108,Farias Brito Central
+4600074189,Fortaleza,1356,,Rua Jaime Benévolo,5,restaurant,True,-3.743898,-38.5294093,Caititu
+4675115492,,,,Rua Alagoas,5,school,True,-3.7591866,-38.5711216,Escola de Ensino Fundamental e Médio Joaquim Alves
+4775059516,Fortaleza,s/n,,Rua Almirante Rufino,5,,True,-3.7681935,-38.5333119,CRAS (Vila União)
+4869943323,Fortaleza,4,,Rua Instituto do Ceará,5,pub,True,-3.7381419,-38.5369416,The Lights
+4869948613,,,,Rua Paulino Nogueira,5,pub,True,-3.7443509,-38.5373919,Bar da Lôra
+4869949241,,,,Rua Paulino Nogueira,5,pub,True,-3.7443702,-38.5373664,Tony do Orós
+4869950016,,,,Rua Paulino Nogueira,5,pub,True,-3.7443266,-38.5374163,Bar da Pizza
+4920552807,Fortaleza,1850,,Rua Monsenhor Liberato,5,school,True,-3.7500884,-38.5313009,Escola de Ensino Médio Governador Adauto Bezerra
+4970132322,,,,Rua Goiás,5,bar,True,-3.7607842,-38.5671894,Carecas Bar
+4972655822,,,,Avenida Carneiro de Mendonça,5,pharmacy,True,-3.7612738,-38.5718694,Farmácia Pague Menos
+5132024029,Fortaleza,643,60740005,Avenida Doutor Silas Munguba,5,bar,True,-3.7792295,-38.5598119,ToroLocco Bar
+5132049847,Fortaleza,839,,Avenida Doutor Silas Munguba,5,driving_school,True,-3.780759,-38.5577845,Autoescola Caçula
+5135426281,Fortaleza,220,60740150,Rua Iara,5,school,True,-3.7761672,-38.5582151,Centro Educacional Universo da Criança
+5135594572,Fortaleza,670,60421410,Rua Mundica Paula,5,school,True,-3.7729091,-38.5586864,Escola Municipal Carolino Sucupira
+5135622885,Fortaleza,2835,60040-531,Avenida 13 de Maio,5,pub,True,-3.7396084,-38.5408959,Paquero Quero
+5147680022,Fortaleza,643,60740005,Avenida Doutor Silas Munguba,5,pharmacy,True,-3.7794662,-38.5599146,Telejuca
+5149938964,Fortaleza,2134,,Avenida Cônego de Castro,5,school,True,-3.7888289,-38.5771083,Intelecto
+5150000267,Fortaleza,129,,Rua Dom Henrique,5,fast_food,True,-3.7897942,-38.5792336,Famme Pizzas
+5226421381,Fortaleza,,,Rua Nereu Ramos,5,restaurant,True,-3.7867816,-38.5671629,Restaurante Boaventura
+5266084691,Fortaleza,,60420-280,Avenida Lauro Vieira Chaves,5,fast_food,True,-3.771886,-38.5354145,Alda Lanches
+5272575421,Fortaleza,841,60040-531,Avenida 13 de Maio,5,restaurant,True,-3.7512094,-38.5273125,Restaurante Bonna Pasta
+5394287264,,932,,Rua Mário Mamede,5,restaurant,True,-3.7516167,-38.528606,Amarú
+5629034934,Fortaleza,1071,60050-130,Rua Felino Barroso,5,restaurant,True,-3.7502259,-38.527617,Gendai
+5629034935,Fortaleza,1071,60050-130,Rua Felino Barroso,5,restaurant,True,-3.7501874,-38.5277029,China in Box
+5629034936,Fortaleza,805,60040-531,Avenida 13 de Maio,5,ice_cream,True,-3.7514259,-38.5270624,50 Sabores
+5629034945,Fortaleza,853,60040-531,Avenida 13 de Maio,5,restaurant,True,-3.7511472,-38.527425,Puro Açaí
+5644617021,,2081c,,Avenida Cônego de Castro,5,fast_food,True,-3.7886033,-38.5764792,Tudão lanches
+5891066107,Fortaleza,332,60055-402,Avenida Aguanambi,5,dentist,True,-3.7399096,-38.5253228,Centro Odontológico Dr. David Cruz
+6043174744,Fortaleza,2795,60714-225,Avenida Doutor Silas Munguba,5,pharmacy,True,-3.7872771,-38.5480641,Extrafarma
+6169669910,Fortaleza,,,Avenida da Universidade,5,library,True,-3.7408998,-38.5397526,Biblioteca do Museu de Arte Floriano Teixeira
+6213963188,,1016,,Avenida 13 de Maio,5,pharmacy,True,-3.7500614,-38.5282843,Famafórmula
+6271722760,,9978,,Avenida Bernardo Manuel,5,pharmacy,True,-3.8060445,-38.5538766,Farmácia Pague Menos
+6292392577,Fortaleza,,,Avenida Doutor Silas Munguba,5,school,True,-3.7915657,-38.537583,E.M.E.I.F. Maria de Carvalho Martins
+6292392579,Fortaleza,,,Avenida Doutor Silas Munguba,5,pharmacy,True,-3.7902418,-38.5411452,Farmácia Pague Menos
+6381122161,Fortaleza,562,60410680,Rua Vicente Padilha,5,school,True,-3.7659908,-38.5376575,Escola Nova Cultura
+6403148150,,,,Alimentação 3923.2247 – 1º Piso – Lojas 235 – 236 – 237,5,fast_food,True,-3.7392256,-38.5403964,McDonald's
+6403148152,Fortaleza,,,Alimentação 3033.3158 – 1º piso – Loja 216 A,5,fast_food,True,-3.7394308,-38.5404822,Subway
+6403148155,,,,Alimentação (85) 3035-9504 – 1º piso – Loja 218/219,5,restaurant,True,-3.7393956,-38.5405316,Rei do Sushi
+6403148156,,,,Alimentação 3033.3144 – 1º Piso – Loja 224 – 225,5,fast_food,True,-3.739272,-38.5405953,Bob's
+6404908823,Fortaleza,3254,,Avenida dos Expedicionários,5,pharmacy,True,-3.7470851,-38.5358765,Farmacia Pague Menos
+184283004,Fortaleza,4279,,Avenida João Pessoa,5,school,True,-3.751071281023295,-38.54747652219306,Colégio Juvenal de Carvalho
+184283455,Fortaleza,2081,,Avenida 13 de Maio,5,university,True,-3.744427677500204,-38.53618339691038,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Fortaleza"
+243306483,Fortaleza,,,Avenida 13 de Maio,5,fast_food,True,-3.7496703941281204,-38.52860725668153,McDonald's
+243311748,Fortaleza,1827,,Avenida Aguanambi,5,hospital,True,-3.753273663491496,-38.522859000840015,Hospital Antônio Prudente
+292863825,Fortaleza,79,,Rua Alberto Magno,5,restaurant,True,-3.7553963083287174,-38.541792168579796,Galeteria do Evaldo
+292867988,,1017,,Avenida 13 de Maio,5,restaurant,True,-3.75037455,-38.528560399999996,Pasto e Pizza
+292871117,Fortaleza,875,60040-531,Avenida 13 de Maio,5,fast_food,True,-3.751086770321326,-38.527571110064635,Bebelu
+292871492,Fortaleza,1116,,Avenida 13 de Maio,5,bank,True,-3.7492476700489545,-38.52909101162404,Banco Bradesco
+316464546,Fortaleza,1555,,Rua Conselheiro Tristão,5,restaurant,True,-3.7476507690875125,-38.52937321576735,Restaurante Raízes
+316477046,Fortaleza,4000,,Avenida Visconde do Rio Branco,5,hospital,True,-3.7562976,-38.52066655,Hospital Regional Unimed Fortaleza
+354974053,Fortaleza,257,,Rua Padre Francisco Pinto,5,restaurant,True,-3.7441110384980663,-38.539628066469405,Restaurante Vegetariano e Vegano Mandir
+370209385,Fortaleza,345,,Avenida Luciano Carneiro,5,university,True,-3.751159195760198,-38.531775548310065,Centro de Humanidades - UECE
+371204665,Fortaleza,,,Avenida da Universidade,5,university,True,-3.740062390543071,-38.53911196886855,Centro de Humanidades II
+429064845,Fortaleza,1400,60040-531,Avenida 13 de Maio,5,bank,True,-3.7476778627262255,-38.530859542724535,Banco Santander
+429207722,Fortaleza,1410,60050-110,Rua Eusébio de Sousa,5,restaurant,True,-3.7485321115018824,-38.52938097657996,Pizza's
+440119669,,2220,,Avenida 13 de Maio,5,bank,True,-3.743067717334501,-38.53647585233523,Lotéricas Benfica
+478511256,Fortaleza,21,,Rua Eduardo Perdigão,5,restaurant,True,-3.773912957354525,-38.5649805810856,Delta Restaurante
+488303583,Fortaleza,860,,Rua Germano Franck,5,school,True,-3.7781664500000005,-38.5635208,Centrão - Centro de Formação de Condutores de Veículos
+488303587,Fortaleza,,,Rua Germano Franck,5,pharmacy,True,-3.777223601366035,-38.56225291686586,Dose Certa
+488303591,Fortaleza,735,,Rua Germano Franck,5,pharmacy,True,-3.778137850476635,-38.562592200920044,Pague Menos
+495275295,Fortaleza,2431,,Avenida da Universidade,5,university,True,-3.738679249250476,-38.53659947704778,"Faculdade de Economia, Administração, Atuária, Contabilidade da UFC"
+502942539,Fortaleza,,,Avenida Domingos Olímpio,5,fast_food,True,-3.7378546286890666,-38.52778590602753,Padaria São Remo
+502943177,,,,Avenida Domingos Olímpio,5,bank,True,-3.737475587670726,-38.52923212467748,Lotérica
+509948517,Fortaleza,52,,Rua Graciliano Ramos,5,school,True,-3.7521838756842696,-38.531774643222505,Instituto de Educação do Ceará
+509948520,Fortaleza,747,,Rua Ministro Joaquim Bastos,5,school,True,-3.7517327104273135,-38.531276573996976,Escola Estadual de Educação Profissional Juarez Távora
+516503853,Fortaleza,531,,Rua José Meneleu,5,school,True,-3.784823540478097,-38.5607590240286,Escola Municipal de Ensino Infantil e Ensino Fundamental Thomaz Pompeu Sobrinho
+540187394,Fortaleza,,,Avenida General Osório de Paiva,5,restaurant,True,-3.7846120679809494,-38.57997653132638,Frango do Louro
+540192561,Fortaleza,217,60730165,Rua Dom Xisto Albano,5,school,True,-3.7885601300966885,-38.57731147956832,Colégio Intelecto
+540192578,Fortaleza,1780,,Avenida Cônego de Castro,5,school,True,-3.7863577180381647,-38.57548084685734,Colégio Guri Sênior
+544997733,Fortaleza,1334,,Rua José do Patrocínio,5,restaurant,True,-3.7650911852667854,-38.5462226416932,La Bombonera Restaurante e Snooker Bar
+544997735,Fortaleza,1270,,Avenida Gomes de Matos,5,bank,True,-3.7632820000000002,-38.547784300000004,Bradesco (Montese)
+554119245,Fortaleza,4650,,Avenida João Pessoa,5,school,True,-3.7531444822372397,-38.55089091665248,Colégio Gustavo Braga
+554126654,Fortaleza,1014,60421010,Rua Almirante Rubim,5,school,True,-3.7667879124432364,-38.55542942566911,E.E.F.M. João Mattos
+554133145,Fortaleza,1127,,Avenida General Osório de Paiva,5,hospital,True,-3.779493215825617,-38.571682231686474,Hospital Distrital Maria José Barroso de Oliveira
+554288070,Fortaleza,1841,,Rua Jorge Dumar,5,school,True,-3.7522382294903034,-38.53893663449581,EEEP Paulo VI
+554288071,Fortaleza,3910,,Avenida dos Expedicionários,5,school,True,-3.7524477158927616,-38.538104103682684,Escola Municipal Filgueiras Lima
+554295823,Fortaleza,123,,Rua Alberto Magno,5,school,True,-3.757482884855881,-38.54316263205627,EEFM. Estado do Paraná
+554295825,Fortaleza,550,60410-455,Rua Samuel Uchôa,5,school,True,-3.754628650172541,-38.54517541387982,EMEIF Dom Manuel da Silva Gomes
+564834978,Fortaleza,s/n,,Rua Holanda,5,school,True,-3.798188860040837,-38.56166995163868,E.E.F.M. Diva Cabral Professora
+578557556,Fortaleza,544,,Rua Tertuliano Sales,5,hospital,True,-3.7628634674447854,-38.531764450536656,Hospital Infantil Albert Sabin
+578557557,,201,,Rua Alberto Montezuma,5,hospital,True,-3.762751818922445,-38.53240900235695,Instituto Peter Pan
+589494031,Fortaleza,836,60040-530,Avenida 13 de Maio,5,pharmacy,True,-3.750918145858824,-38.527194381734176,Pague Menos
+589494053,Fortaleza,1115,60050-130,Rua Felino Barroso,5,restaurant,True,-3.750489125772794,-38.52768100196417,Restaurante Nova Era
+595604679,,750,,Rua Mário Mamede,5,school,True,-3.7528087500000007,-38.52687410000001,Colégio Santo Tomás de Aquino
+598664910,Fortaleza,734,,Rua Germano Franck,5,hospital,True,-3.777508494409946,-38.56324314705877,Hospital Menino Jesus
+598664939,Fortaleza,,60740140,Rua Guará,5,school,True,-3.775682107622561,-38.55899853259921,Escola Municipal Professor José Valdevino de Carvalho
+599929892,Fortaleza,400,,Rua Elvira Pinho,5,school,True,-3.7674246773048155,-38.55575742179852,Colégio Nossa Senhora do Carmo
+601160446,Fortaleza,1854,60730-088,Avenida General Osório de Paiva,5,pharmacy,True,-3.783174952091615,-38.57915189992158,Pague Menos
+623839573,Fortaleza,332,60055-402,Avenida Aguanambi,5,hospital,True,-3.7397984011837804,-38.52560682129112,Hospital Uniclinic
+658749874,,,,Rua Cardoso de Barros,5,school,True,-3.7912708168191056,-38.579949364412286,Colégio Eçá de Queiroz
+658749876,Fortaleza,,,Rua Dom Xisto Albano,5,school,True,-3.7918576670280886,-38.580577046118535,Colégio Moriá
+663197194,,733,,Rua Marechal Deodoro,5,school,True,-3.742164453454767,-38.53558947187378,E.E.F.M. Figueiredo Correa
+680777317,Fortaleza,1001,60040000,Rua Antônio Pompeu,5,university,True,-3.7346979826046,-38.53245197747244,Faculdade Maurício de Nassau
+682172690,Fortaleza,927,60040-531,Avenida 13 de Maio,5,pharmacy,True,-3.750848561122904,-38.52793069111087,Extrafarma
+683619492,,,,Avenida 13 de Maio,5,food_court,True,-3.739351109080935,-38.540428917740726,Praça de Alimentaçao
+7461936,Fortaleza,555,,Rua Armando Monteiro,5,restaurant,True,-3.7648268666666667,-38.53355736666666,Alpendre da Villa
+7830843,Fortaleza,1700,60740-000,Avenida Doutor Silas Muguba,5,university,True,-3.7855922302938416,-38.552212409418225,Universidade Estadual do Ceará
+8777040,Fortaleza,s/n,,Rua Irmã Bazet,5,school,True,-3.76162600107211,-38.55494156244846,E.M.E.I..F Vicente Fialho
+8777043,Fortaleza,210,,Rua Irmã Bazet,5,school,True,-3.762196133333333,-38.553953299999996,E.E.E.M. Presidente Humberto Castelo Branco
+8802552,Fortaleza,900,,Rua Jorge Acúrcio,5,school,True,-3.768501457975957,-38.533280516049096,E.M.E.I.F. General Cordeiro Neto
+8834698,,,,Avenida Lauro Vieira Chaves,5,bank,True,-3.7716140999999994,-38.535561300000005,Banco Bradesco
+8840289,Fortaleza,2,60.720-040,Rua Caio Prado,5,school,True,-3.7728240233240484,-38.56400446656546,E.E.E.P. Joaquim Moreira de Sousa
+571728347,Fortaleza,630,60135-460,Rua Israel Bezerra,10,school,True,-3.7501429,-38.495632,Colégio Christus
+3843016548,,1357,,Avenida Antônio Sales,10,cafe,True,-3.742403,-38.5119206,Úrbici Café
+4184044816,,1650,,Rua Padre Valdevino,10,pub,True,-3.7413489,-38.5100611,Fabrika Bar 1650
+4202752184,,,,Avenida Santos Dumont,10,fast_food,True,-3.7429551,-38.478124,McDonald's
+4243554405,Fortaleza,2675,,Rua Visconde de Mauá,10,cafe,True,-3.7484987,-38.5031914,Casa de Moá
+4317562590,,2435,,Avenida Antônio Sales,10,restaurant,True,-3.7454474,-38.5020401,Goya
+4321687878,Fortaleza,2531,,Avenida Pontes Vieira,10,hospital,True,-3.7508035,-38.498805,Hospital São Carlos
+4321920008,Fortaleza,2310,,Rua Carlos Vasconcelos,10,pub,True,-3.7420515,-38.5138206,Bar do Helano
+4365020766,Fortaleza,300 - lj 17,,Avenida Washington Soares,10,fast_food,True,-3.7579142,-38.4884984,Azilados Casa de Sanduíches
+4437884092,,4930,60831-000,Avenida Clóvis Arrais Maia,10,restaurant,True,-3.7540722,-38.4451404,Chico do Caranguejo
+4476101730,Fortaleza,1240,,Rua Desembargador Lauro Nogueira,10,school,True,-3.7415704,-38.4739896,EEEP Maria José Medeiros
+4908479181,Fortaleza,2088,60192-240,Rua Bento Albuquerque,10,pharmacy,True,-3.747821,-38.4710058,Farmácias Pague Menos
+4908479190,Fortaleza,39,60190-611,Avenida Central,10,restaurant,True,-3.7495469,-38.4712052,Don Pisani - Pizza & Esfiha
+4988495126,,2328,,Avenida Rogaciano Leite,10,restaurant,True,-3.7750507,-38.5000825,Pizzaria El Shaday
+5013048522,,2786,,Rua Osvaldo Cruz,10,restaurant,True,-3.7489087,-38.5047407,Coriolano
+5018760978,Fortaleza,950,,Rua Tomás Acioli,10,fast_food,True,-3.7450361,-38.5093939,Cantina da Villa
+5071176421,,450,,Rua Eliseu Uchôa Beco,10,restaurant,True,-3.760992,-38.4864394,La Frontera Tex-Mex Grill
+5435417890,,600,,Rua Eliseu Uchôa Beco,10,university,True,-3.7645449,-38.4861481,Estácio Via Corpvs
+5705774274,Fortaleza,1276,60130-271,Rua Eduardo Bezerra,10,cafe,True,-3.7535617,-38.5087554,Confeitaria Sublime
+5705810624,Fortaleza,333,60190-200,Alameda das Boninas,10,bar,True,-3.7497434,-38.4718177,La Ticiane
+5705821982,Fortaleza,5765,60182-025,Avenida Clóvis Arrais Maia,10,restaurant,True,-3.7624445,-38.441068,Barraca do Pipoca
+5798975937,Fortaleza,108,60110-480,Rua Padre Antonino,10,restaurant,True,-3.7410798,-38.5199691,Pizzaria Dom Leone
+161418803,Fortaleza,832,,Avenida Pontes Vieira,10,public_building,True,-3.753180165174674,-38.513160997204906,SERPRO - Serviço Federal de Processamento de Dados
+243931020,Fortaleza,,,Avenida Washington Soares,10,fast_food,True,-3.772002874775578,-38.48251320175454,McDonald's
+324294653,Fortaleza,,,Rua Professor Otávio Lobo,10,hospital,True,-3.739495387561047,-38.47635081582983,HGF - Hospital Geral de Fortaleza
+397386392,Fortaleza,1000,60190-600,Avenida das Graviolas,10,school,True,-3.751870409222326,-38.47256309417949,EEFM Arquiteto Rogério Fróes
+414739860,Fortaleza,603,,Avenida Engenheiro Santana Júnior,10,fast_food,True,-3.73362795,-38.4805456,Sorveteria Juarez
+460539024,Fortaleza,2470,,Avenida Barão de Studart,10,restaurant,True,-3.745257715617357,-38.510276827701325,Hot Be Happy
+472810124,Fortaleza,1357 - quiosque 1,,Avenida Antônio Sales,10,fast_food,True,-3.742440112231036,-38.51162378056979,Catatau Sucos e Sanduíches
+480642598,,2191,,Avenida Barão de Studart,10,bank,True,-3.74284335,-38.508987850000004,Caixa Econômica Federal - Agência Aldeota
+481398867,,2580,,Rua Dom Expedito Lopes,10,restaurant,True,-3.7449763,-38.5019849,Niko Aldeota
+483252652,,2127,,Avenida Barão de Studart,10,restaurant,True,-3.7423285000000006,-38.50878965,Maravilha Self-Service
+483252653,,2173,,Avenida Barão de Studart,10,bank,True,-3.7424638310987848,-38.508812782227196,Santander - Agência Barão de Studart
+499578014,Fortaleza,5633,60175-047,Avenida Santos Dumont,10,hospital,True,-3.7416483113901435,-38.4801221368613,Complexo do Hospital São Mateus
+499584087,Fortaleza,1975,,Rua Bento Albuquerque,10,school,True,-3.7470142314264114,-38.47195903647106,Escola de Trabalho Oficina do Senhor
+509510783,Fortaleza,2600,,Rua Silva Paulet,10,school,True,-3.7467402084859307,-38.50957760070061,Balet Mônica Luíza
+513360963,Fortaleza,2471,,Avenida Barão de Studart,10,restaurant,True,-3.745330418820726,-38.50983506323208,Bény Self Service
+513404221,Fortaleza,2481,,Avenida Barão de Studart,10,dentist,True,-3.7454183690452734,-38.509864662724766,Raul & Rebeca Martins Odontologia
+547035819,Fortaleza,2240,,Rua Padre Valdevino,10,dentist,True,-3.742831849999998,-38.505537399999994,Odontoart
+551270302,Fortaleza,420,60130-304,Rua Isac Amaral,10,university,True,-3.7525323415006113,-38.50631292036117,Faculdade Ratio
+661725187,Fortaleza,1304,60135-100,Avenida Antônio Sales,10,bank,True,-3.742686589038708,-38.5122515698326,Bradesco
+620869897,Fortaleza,531,60115-280,Rua Doutor José Lourenço,1,hospital,True,-3.7288029,-38.5048677,ProntoCárdio Emergência
+620869901,Fortaleza,855,,Avenida Barão de Studart,1,restaurant,True,-3.7320914,-38.5054914,L'escale Florence
+620869908,Fortaleza,825,,Avenida Barão de Studart,1,restaurant,True,-3.7317167,-38.5053626,Sirigado
+620869909,Fortaleza,1785,60160-041,Rua Tenente Benévolo,1,restaurant,True,-3.7292008,-38.5051988,Mikado
+620869911,Fortaleza,999,,Avenida Barão de Studart,1,restaurant,True,-3.7323912,-38.5055987,Novo Fogão
+622049157,Fortaleza,747,60160-140,Rua República do Líbano,1,hospital,True,-3.7321663,-38.4933034,Hospital Monte Klinikum
+623200433,Fortaleza,777,,Rua Doutor José Lourenço,1,hospital,True,-3.7307265,-38.5063563,Hospital São Raimundo
+623732953,Fortaleza,1956,60160-194,Rua Pereira Filgueiras,1,pharmacy,True,-3.7309786,-38.5051464,Extrafarma
+626873360,Fortaleza,1010,,Avenida Dom Luís,1,restaurant,True,-3.7351372,-38.4919454,Soho
+626908130,Fortaleza,1500,60140-032,Avenida Heráclito Graça,1,bank,True,-3.7380239,-38.5118239,Banco do Brasil
+631057857,Fortaleza,814,,Rua Maria Tomásia,1,hospital,True,-3.7365671,-38.494391,Gastroclínica
+1617987111,,1168,,Rua Frei Mansueto,1,restaurant,True,-3.7346782,-38.4887553,Bodega do Poço
+2764443813,Fortaleza,62,,Rua Dr Castro Medeiros,1,hospital,True,-3.72823,-38.5065384,Instituto do Rim
+3107163508,,,,Avenida Leite Barbosa,1,bar,True,-3.7082507,-38.4660963,Bar do surf
+3358404736,Fortaleza,1210,60160-281,Rua Costa Barros,1,restaurant,True,-3.7299562,-38.5130781,Cangaceiro Sanduíches
+3428598093,Fortaleza,64,60170080,Rua Joaquim Siqueira,1,cafe,True,-3.7365341,-38.4956785,Doceville
+3882524888,,1545,,Rua Joaquim Nabuco,1,pub,True,-3.739026,-38.5024071,Birosca
+4060117270,Fortaleza,670,60170310,Rua Professor Dias da Rocha,1,cafe,True,-3.7352944,-38.4916756,Le Pain Le cafe
+4374996490,,1697,60110300,Rua João Cordeiro,1,restaurant,True,-3.7352148,-38.5159581,Kina do Feijão Verde
+4477465484,Fortaleza,1140,,Rua Rocha Lima,1,hospital,True,-3.7388442,-38.5150399,Hospital Leiria de Andrade
+4577247815,Fortaleza,27,60175-040,Rua Frederico Borges,1,fast_food,True,-3.7297828,-38.4892063,Mercado Meireles
+4696355481,Fortaleza,1859,60150-161,Avenida Santos Dumont,1,fast_food,True,-3.7330985,-38.5070905,Burger King
+4771885621,,906,,Avenida Dom Luís,1,fast_food,True,-3.7347547,-38.4933304,Smoo Juice Bar
+4773078638,,906,,Avenida Dom Luís,1,fast_food,True,-3.7347298,-38.4934102,Dor's Burger
+4781040885,Fortaleza,1247,,Rua Nunes Valente,1,pub,True,-3.7357699,-38.5034626,Hey Ho Beer Pub
+4855720785,Fortaleza,529,60165-070,Rua Silva Jatahy,1,restaurant,True,-3.7272253,-38.4988596,Pizza Vignoli
+4855729223,Fortaleza,790,,Rua Tibúrcio Cavalcante,1,restaurant,True,-3.7316501,-38.5012789,Santa Grelha
+4855739095,Fortaleza,503,,Rua Maria Tomásia,1,restaurant,True,-3.7351457,-38.4977437,Cabaña Del Primo
+4855742021,Fortaleza,1011,,Avenida Desembargador Moreira,1,restaurant,True,-3.7350041,-38.4977255,Misaki Restaurante
+4855743072,Fortaleza,1011,,Avenida Desembargador Moreira,1,restaurant,True,-3.7348843,-38.4975909,Geppos Restaurante
+4855744837,Fortaleza,545,,Rua Maria Tomásia,1,restaurant,True,-3.7352764,-38.4974053,Cavalieri Confraria
+4855746508,Fortaleza,32,,Rua Norvinda Pires,1,restaurant,True,-3.7369655,-38.5012061,Hey Joe Food N'bar
+4868435022,Fortaleza,1,60125-150,Rua Osvaldo Cruz,1,fast_food,True,-3.7258993,-38.4970167,McDonald's
+4868452821,,548,,Rua Coronel Linhares,1,restaurant,True,-3.7342168,-38.4934365,Good Salads
+4986764321,Fortaleza,2500,60165-120,Avenida Beira Mar,1,restaurant,True,-3.7260325,-38.496313,Pizza Hut
+4988213623,Fortaleza,1957,60150-161,Avenida Santos Dumont,1,pharmacy,True,-3.7333396,-38.5064063,Extrafarma
+4988213627,Fortaleza,2289,60165-120,Avenida Beira Mar,1,restaurant,True,-3.7247851,-38.4998859,Barraca Tropical
+4988219025,Fortaleza,600,60120-000,Avenida Barão de Studart,1,pharmacy,True,-3.7291662,-38.5050063,Extrafarma
+4988219222,Fortaleza,2269,60165-120,Avenida Beira Mar,1,restaurant,True,-3.7247148,-38.500201,Barraca Só Sol
+4988219421,Fortaleza,4050,60165-121,Avenida Beira Mar,1,ice_cream,True,-3.7234208,-38.4843517,50 Sabores
+5126469028,Fortaleza,90,60170-000,Avenida Desembargador Moreira,1,restaurant,True,-3.7270475,-38.4954916,K-Bab
+5126476810,Fortaleza,333,60170-001,Avenida Desembargador Moreira,1,pharmacy,True,-3.7302245,-38.4962399,Farmácia Pague Menos Drugstore
+5144148621,Fortaleza,1680,60165-120,Avenida Beira Mar,1,bar,True,-3.7231878,-38.5051101,Boteco Praia
+5224574224,,4440,,Avenida Beira Mar,1,restaurant,True,-3.7226526,-38.481563,Los Pampas
+5357985422,Fortaleza,956,60165-120,Avenida Beira Mar,1,restaurant,True,-3.7203728,-38.511311,Veleiro Piatã
+5433919103,Fortaleza,150,60120-000,Avenida Barão de Studart,1,restaurant,True,-3.7252077,-38.5036936,Restaurante La Perla
+5433919115,Fortaleza,1712,60165-010,Avenida Monsenhor Tabosa,1,restaurant,True,-3.7247532,-38.5040675,Restaurante Mariano da Picanha
+5541173823,,554,60060-510,Rua dos Tabajaras,1,cafe,True,-3.719709,-38.5151771,Café Couture
+5567375028,,1386,,Avenida Rui Barbosa,1,restaurant,True,-3.7347198,-38.509082,Donadel Burger Shop
+5590734367,Fortaleza,590,60115-280,Rua Doutor José Lourenço,1,dentist,True,-3.7291098,-38.5061477,Clínica Integrada de Saúde
+5695004161,Fortaleza,783,60115-220,Avenida Rui Barbosa,1,pharmacy,True,-3.7300024,-38.5072839,Drogasil
+5705746770,Fortaleza,2627,60165-121,Avenida Beira Mar,1,restaurant,True,-3.725318,-38.4972196,Barraca Satehut
+5705810625,Fortaleza,1460,60160-110,Rua Ana Bilhar,1,bar,True,-3.7316593,-38.4865537,Dom Lee Bar & Bistrô
+5760544482,Fortaleza,1180,60150-161,Avenida Santos Dumont,1,bank,True,-3.7316364,-38.5130567,Sicredi
+5760544483,Fortaleza,1180,60150-161,Avenida Santos Dumont,1,pharmacy,True,-3.7316256,-38.5131098,Farma Vida
+5760544499,Fortaleza,1,60125-150,Rua Osvaldo Cruz,1,ice_cream,True,-3.7257987,-38.4969166,San Paolo Gelato
+5760590293,Fortaleza,2982,60165-120,Avenida Beira Mar,1,ice_cream,True,-3.7261229,-38.4940991,50 Sabores
+5760590294,Fortaleza,2982,60165-120,Avenida Beira Mar,1,pharmacy,True,-3.7261056,-38.4940046,Farmácia i9
+5840011440,Fortaleza,400,60125-150,Rua Osvaldo Cruz,1,dentist,True,-3.7291213,-38.498337,Clínica Integrada Walter Torquato
+5859732305,Fortaleza,3581,60150-165,Avenida Santos Dumont,1,bank,True,-3.7378466,-38.4930086,Bradesco Prime
+5891795710,Fortaleza,1717,60165-010,Avenida Monsenhor Tabosa,1,ice_cream,True,-3.7245462,-38.5036795,Gelato & Grano
+6088564163,Fortaleza,417,60115-190,Rua Monsenhor Bruno,1,dentist,True,-3.7254989,-38.5070743,Consultório Odontológico Dra. Cibele Sidrim
+6162316190,Fortaleza,1400,60165-068,Avenida Monsenhor Tabosa,1,pharmacy,True,-3.7245949,-38.5066362,Drogasil
+6173126586,Fortaleza,2456,60150-162,Avenida Santos Dumont,1,bank,True,-3.7349787,-38.5029247,Banco do Brasil - Estilo
+6186028174,Fortaleza,1301,60160-281,Rua Costa Barros,1,restaurant,True,-3.7300919,-38.5120805,Tele Chicken
+6186028175,Fortaleza,1301,60160-281,Rua Costa Barros,1,post_office,True,-3.7301355,-38.511987,Azul Cargo Express
+6188344588,Fortaleza,965,60125-025,Rua José Vilar,1,restaurant,True,-3.7338662,-38.5038595,Alemão Brauhaus
+6195385755,,1420,,Avenida Barão de Studart,1,cafe,True,-3.7365797,-38.5073612,Clássica Bike & Café
+6234276051,Fortaleza,17,60150-090,Rua Sabino Pires,1,cafe,True,-3.736629,-38.5012763,Blend CoffeeHouse
+6234276052,Fortaleza,5,60150-090,Rua Sabino Pires,1,restaurant,True,-3.7365044,-38.5012355,Nemo Sushi
+6257773612,Fortaleza,1003,60060-440,Avenida Almirante Barroso,1,restaurant,True,-3.7199552,-38.5139493,Ventana
+6381882207,Fortaleza,565,60160-230,Avenida Dom Luís,1,bank,True,-3.7335576,-38.4961305,Itaú
+6429384763,Fortaleza,1294,60175-070,Rua Frei Mansueto,1,bank,True,-3.7357614,-38.4888732,Caixa Econômica Federal
+6429398660,Fortaleza,1455,60150-190,Rua Marcos Macêdo,1,restaurant,True,-3.7367585,-38.4897785,Divina Gula
+6458676712,Fortaleza,1127,60120-001,Avenida Barão de Studart,1,pharmacy,True,-3.7346279,-38.5064172,Pague Menos
+6458676717,Fortaleza,1071,60120-001,Avenida Barão de Studart,1,restaurant,True,-3.7342948,-38.5063061,Churrascaria Jovem Conceito
+48922601,Fortaleza,560,60120-000,Avenida Barão de Studart,1,hospital,True,-3.7286802386886135,-38.50527716185219,ProntoCárdio
+148604046,Fortaleza,149,,Avenida Dom Luís,1,school,True,-3.7321990248591628,-38.500105039020944,Wizard
+148607925,Fortaleza,1056,,Rua Desembargador Leite Albuquerque,1,school,True,-3.7388648831302573,-38.495371232387065,Colégio Batista Santos Dumont
+184280262,Fortaleza,3698,60165-121,Avenida Beira Mar,1,restaurant,True,-3.7237567249806394,-38.48747847198011,Coco Bambu Frutos do Mar
+184280265,,10,,Avenida Senador Virgílio Távora,1,restaurant,True,-3.727412027660906,-38.491363208262335,Vignoli
+243220305,Fortaleza,7,,Rua Almirante Jaceguai,1,bar,True,-3.721080546517624,-38.51912459447799,Complexo Armazen
+243782927,Fortaleza,1199,,Avenida Desembargador Moreira,1,bank,True,-3.7361274,-38.49795745,Banco do Brasil
+243782928,Fortaleza,,,Avenida Santos Dumont,1,bank,True,-3.7366124072008238,-38.49873786156931,Bradesco
+258381207,Fortaleza,1710,60150-161,Avenida Santos Dumont,1,fast_food,True,-3.7331139430378104,-38.50871141065815,McDonald's
+316474471,Fortaleza,940,60115-081,Rua Barão de Aracati,1,public_building,True,-3.729728754946268,-38.510281118134195,Ministério da Fazenda - Receita Federal
+321123828,Fortaleza,131,,Avenida Júlio Abreu,1,bar,True,-3.735687888457163,-38.48795129627703,Ultimate Sport Music Bar
+321124087,Fortaleza,1364,,Rua Castro Monte,1,university,True,-3.736437584901734,-38.48619580689867,Faculdade Farias Brito
+321124526,Fortaleza,160,60160-240,Avenida Júlio Abreu,1,restaurant,True,-3.736134251852332,-38.48714346036866,Pasto & Pizzas
+321227252,Fortaleza,1500,,Avenida Júlio Abreu,1,restaurant,True,-3.7358208804751927,-38.48834525142215,Picanha Grill
+321227253,Fortaleza,120,,Avenida Júlio Abreu,1,fast_food,True,-3.736098537316126,-38.4882480513233,The Burgers - On the Table
+321227459,Fortaleza,120,,Avenida Júlio Abreu,1,pharmacy,True,-3.7361069258095,-38.488440542271846,Farmácia Dose Certa
+321227803,Fortaleza,1219,,Avenida Dom Luís,1,restaurant,True,-3.735045455268561,-38.49012999012427,Dallas Grill
+321227906,Fortaleza,584,,Rua Frederico Borges,1,restaurant,True,-3.734889023892084,-38.48932203402579,O Alemão
+321935850,Fortaleza,830,60175-084,Rua Frederico Borges,1,pharmacy,True,-3.7362382892719417,-38.489264396154596,Extrafarma
+321935894,Fortaleza,1350,60160-196,Avenida Dom Luís,1,pharmacy,True,-3.736228866814752,-38.489348609437364,A Fórmula
+321935927,Fortaleza,1300,60160-196,Avenida Dom Luís,1,pharmacy,True,-3.7361055591215697,-38.48953523523605,Pague Menos
+413001271,Fortaleza,578,,Rua Professor Dias da Rocha,1,bar,True,-3.7345922772582503,-38.49154116582228,Moleskine
+417050909,Fortaleza,,,Rua Oliveira Filho,1,school,True,-3.7313729592880995,-38.462311582255374,E.E.F.M. Deputado Manoel Rodrigues
+435838407,Fortaleza,2020,,Rua José Vilar,1,fast_food,True,-3.742144346616246,-38.50685226904512,Adriano Lanches e Água Mineral
+436321164,Fortaleza,6,,Rua Sabino Pires,1,restaurant,True,-3.7364239500000003,-38.50137345,Santo Açaí
+436450807,Fortaleza,1136B,,Rua Ana Bilhar,1,cafe,True,-3.7314047999999995,-38.49010775,Amika Coffeehouse
+436450808,Fortaleza,1136,,Rua Ana Bilhar,1,fast_food,True,-3.7314141,-38.49004715,Puro Açaí
+436450809,Fortaleza,1136D,,Rua Ana Bilhar,1,ice_cream,True,-3.731365099999999,-38.49016055,Açaí 4U
+439809709,Fortaleza,624,,Rua Frederico Borges,1,ice_cream,True,-3.7351744065442882,-38.489256216259975,Bellucci Gelateria
+439887449,Fortaleza,"1200, lj 1",,Avenida Dom Luís,1,fast_food,True,-3.7358238717372423,-38.4904743148138,McDonald's
+440864926,Fortaleza,1004,,Avenida Rui Barbosa,1,restaurant,True,-3.731627392674027,-38.508334125215015,Dom Speto
+440867597,Fortaleza,1136,,Rua Carlos Vasconcelos,1,restaurant,True,-3.7318017876472527,-38.51064399790566,Pizza Duno
+440867598,Fortaleza,"1788, Loja 1",60150-161,Avenida Santos Dumont,1,restaurant,True,-3.7335807009514568,-38.50800371892655,Floresta Bar
+458992753,Fortaleza,1477,,Rua Leonardo Mota,1,fast_food,True,-3.7390657999999988,-38.496922600000005,El Chancho
+463669465,Fortaleza,1905,,Rua Padre Valdevino,1,pharmacy,True,-3.7419636428036136,-38.50717256991603,Evidence - Farmácia com Manipulação
+477415973,Fortaleza,1317,,Rua Canuto de Aguiar,1,restaurant,True,-3.7319012433797756,-38.490841355703616,Coco Bambu
+477417154,Fortaleza,1014,,Rua Pereira Valente,1,pharmacy,True,-3.733945542290953,-38.49243941981648,Extrafarma
+477417246,Fortaleza,597,,Avenida Senador Virgílio Távora,1,fast_food,True,-3.7331372989137104,-38.491646535006126,Porpino Burger
+478493260,Fortaleza,167,,Avenida Júlio Abreu,1,restaurant,True,-3.7356098731397096,-38.48758695092087,Pizzaiolo Pizzaria
+480522697,Fortaleza,1356,,Rua Ana Bilhar,1,restaurant,True,-3.7317429499999992,-38.48809239999999,Assis O Rei da Picanha II
+481398852,,2023,,Avenida Barão de Studart,1,ice_cream,True,-3.741385469581914,-38.50855431287252,Sorveteria Juarez
+481635808,,1555,,Rua Doutor José Lourenço,1,restaurant,True,-3.7370687236284685,-38.50835641083703,Sabor de Panela
+481635810,,501,,Rua João Carvalho,1,restaurant,True,-3.7371857,-38.50845865,Officina Della Pizza
+482269143,,2000,,Avenida Senador Virgílio Távora,1,school,True,-3.743901164409012,-38.49651906572958,Colégio Santa Cecília
+484559408,,685,,Avenida Dom Luís,1,restaurant,True,-3.733738757888346,-38.49518188559076,Picanha do Cowboy
+484559411,Fortaleza,737,,Avenida Dom Luís,1,restaurant,True,-3.7338960499999994,-38.49453739999999,Taco e Pizza
+484559413,Fortaleza,879,,Avenida Dom Luís,1,fast_food,True,-3.7342850000000003,-38.49355070000001,Bebelu Sanduíches
+484559414,Fortaleza,911,,Avenida Dom Luís,1,university,True,-3.734238142492823,-38.493149870634795,Unichristus
+495514114,,996,,Rua Carlos Vasconcelos,1,restaurant,True,-3.7305391,-38.510335,Dom Pastel
+510850333,Fortaleza,1780,60165-080,Avenida da Abolição,1,fast_food,True,-3.725197021789593,-38.50327954572124,Habib's
+525727769,,1673,,Rua Costa Barros,1,fast_food,True,-3.730968,-38.50915620000001,Puro Açaí Aldeota
+539639213,Fortaleza,1810,60165-080,Avenida da Abolição,1,bank,True,-3.725358181115819,-38.50292996880849,Bradesco
+539639214,Fortaleza,1798,60165-080,Avenida da Abolição,1,pharmacy,True,-3.7252994660035066,-38.503096534336834,Pague Menos
+548161693,,210,,Rua Coronel Jucá,1,bar,True,-3.733273662110762,-38.49008455843533,Floresta Brasil
+555271186,,5,,Rua dos Pacajús,1,pub,True,-3.7193238565380136,-38.51440427774188,Bar do Mincharia
+598354377,Fortaleza,1200,60165-068,Avenida Monsenhor Tabosa,1,bank,True,-3.724520509665025,-38.508431679071336,Bradesco
+598354381,Fortaleza,1101,60165-065,Avenida Monsenhor Tabosa,1,pharmacy,True,-3.724003446323029,-38.50935902837899,Farmácia FTB
+598354382,Fortaleza,1085,60165-065,Avenida Monsenhor Tabosa,1,pharmacy,True,-3.723991481671748,-38.509449936859006,Pague Menos
+607949073,Fortaleza,1168,60150-161,Avenida Santos Dumont,1,hospital,True,-3.73172844879777,-38.513350953102545,Hospital Gênesis
+612365197,Fortaleza,2004,60150-161,Avenida Santos Dumont,1,bank,True,-3.733991232437459,-38.50608041279797,Bradesco
+613062847,Fortaleza,43,60110-355,Rua João Cordeiro,1,restaurant,True,-3.720741097947377,-38.51140049826823,Brazão Churrascaria e Restaurante
+617195094,Fortaleza,2308,60165-080,Avenida da Abolição,1,bank,True,-3.7267403256074583,-38.4982927303901,Banco do Brasil
+625791560,Fortaleza,160,60160-240,Avenida Júlio Abreu,1,restaurant,True,-3.7361915804194417,-38.48759191981005,Take a Juice!
+625791561,Fortaleza,160,60160-240,Avenida Júlio Abreu,1,fast_food,True,-3.7361909306196033,-38.48756121672981,Praieiro
+625791562,Fortaleza,160,60160-240,Avenida Júlio Abreu,1,restaurant,True,-3.73619023927869,-38.487530477077115,Mango
+625791566,Fortaleza,160,60160-240,Avenida Júlio Abreu,1,restaurant,True,-3.7361874506712174,-38.48742404442197,Pizza da Mirian
+625791576,Fortaleza,160,60160-240,Avenida Júlio Abreu,1,restaurant,True,-3.7361835320224435,-38.48727234502794,Uau Pizza Delivery
+627366907,Fortaleza,1281,60120-021,Rua Silva Paulet,1,cafe,True,-3.736399851338433,-38.505844445617356,Bleecker Café
+628441665,Fortaleza,933,60110-301,Rua João Cordeiro,1,restaurant,True,-3.728437147473885,-38.51378088530523,Restaurante Sesc
+629314975,Fortaleza,2361,60165-120,Avenida Beira Mar,1,fast_food,True,-3.724945234433371,-38.499072732409275,Subway
+629314976,Fortaleza,2361,60165-120,Avenida Beira Mar,1,restaurant,True,-3.724876325983701,-38.49940516976208,Vignoli
+657988584,Fortaleza,81,60120-013,Avenida Barão de Studart,1,cafe,True,-3.72475913910084,-38.50312534453386,Café Vida
+659332937,Fortaleza,640,60120-000,Avenida Barão de Studart,1,bank,True,-3.7295249699921924,-38.50530181931485,Caixa Econômica Federal
+659332947,Fortaleza,920,60115-081,Rua Barão de Aracati,1,bank,True,-3.7295956297472443,-38.5110357922105,Banco do Brasil
+662093955,Fortaleza,683,60150-970,Rua Maria Tomásia,1,post_office,True,-3.735710779928711,-38.49584528832357,Correios
+672012841,Fortaleza,256,60170-055,Avenida Desembargador Moreira,1,restaurant,True,-3.7294112245563262,-38.49645224662153,Sabor de Mar
+7100617,,630,,Rua João Carvalho,1,school,True,-3.73826795,-38.5071864,Colégio Christus Silva Paulet
+8828576,Fortaleza,2056,60140-160,Avenida Padre Antônio Tomás,1,hospital,True,-3.7421963666666667,-38.4943645,Hospital Hapvida Aldeota
+2052024940,Fortaleza,2821,,Avenida Presidente Costa e Silva,7,restaurant,True,-3.8211426,-38.5570401,Vieira Alves Restaurante
+2052027063,Fortaleza,200,,Rua G,7,pharmacy,True,-3.8210804,-38.556036,Extrafarma (Pátio Arvoredo)
+3028521168,,55,,Avenida Washington Soares,7,dentist,True,-3.7538641,-38.4906286,Consultório Dr Marcilio e Dra Isabel
+3960509239,,723,,Avenida Washington Soares,7,fast_food,True,-3.760608,-38.4827149,X do João
+4228668121,,747,,Avenida Washington Soares,7,pub,True,-3.7608486,-38.4826996,Noite a Fora
+4464236693,Fortaleza,2721,,Avenida Presidente Costa e Silva,7,bank,True,-3.8206939,-38.5572037,Caixa Econômica Federal (José Walter)
+4464236695,Fortaleza,2721,,Avenida Presidente Costa e Silva,7,pharmacy,True,-3.8209656,-38.557184,Pague Menos (Posto Itapery)
+4468114747,Fortaleza,2913,,Avenida Presidente Costa e Silva,7,restaurant,True,-3.8220408,-38.5544942,Peixe Vivo Restaurnate
+4470018481,Fortaleza,444,,Rua Itaperi,7,school,True,-3.816783,-38.5561409,Fagundes Varela Colegio
+4476004542,Fortaleza,228,,Rua João França,7,fast_food,True,-3.7953453,-38.5499689,Tatá Lanches
+4476050636,Fortaleza,967,,Rua José Pedra,7,bar,True,-3.7963066,-38.5497623,Espaço para Eventos Tdb Buffet
+4476050641,Fortaleza,745,,Avenida Norte Sul,7,pub,True,-3.7971832,-38.5493834,Bar da Gelada
+4476080642,Fortaleza,226,,Rua C,7,pub,True,-3.798898,-38.548872,Escondidinho Dos Amigos
+4476080647,Fortaleza,1431,,Rua José Pedra,7,school,True,-3.8000699,-38.5509245,Colégio Batista Independente
+4476080654,Fortaleza,,,Travessa Baraúna,7,restaurant,True,-3.8014306,-38.5504225,Delícias Da Thay
+4476080657,Fortaleza,1564,,Rua Afonso Lopes,7,fast_food,True,-3.8014655,-38.5508241,LC Lanches & Cia
+4476080664,Fortaleza,82,,Rua B,7,restaurant,True,-3.8029401,-38.5501862,Camarão Online
+4476088182,Fortaleza,,,Avenida 2,7,school,True,-3.80688,-38.5489349,Infante Rosalina Rodrigues E.M.E.I.F.
+4476088184,Fortaleza,,,Avenida 2,7,pub,True,-3.8074045,-38.5481356,Bar do Baleia
+4476088186,Fortaleza,1321,,Rua H,7,pub,True,-3.806697,-38.5477164,Bar e Marmitaria O Baturite
+4872142747,,,,Avenida Doutor Silas Munguba,7,pharmacy,True,-3.801039,-38.5298375,Pague Menos
+4872160376,,,,Avenida Alberto Craveiro,7,school,True,-3.7941486,-38.5187831,EEFM Professora Maria Gonçalves
+4872184780,Fortaleza,2644,60860-000,Avenida Alberto Craveiro,7,restaurant,True,-3.8027331,-38.5214643,Churrascaria e Pizzaria Poranga
+4876528488,Forteza,716,60743-760,Avenida Heróis do Acre,7,restaurant,True,-3.8029989,-38.5352302,Casa do Feijão Verde
+4876551088,Fortaleza,354,60743-760,Avenida Heróis do Acre,7,restaurant,True,-3.8029584,-38.5320095,Ceviche Sushi Bar
+4876560466,Fortaleza,5556,,Avenida Heróis do Acre,7,restaurant,True,-3.8029033,-38.5291699,Rita's Churrascaria
+4876583565,Fortaleza,5699,,Avenida Doutor Silas Munguba,7,restaurant,True,-3.8024831,-38.5288266,Balbino
+4944327321,,771,,Rua Julio Lima,7,bar,True,-3.7948146,-38.4980436,Quiosque Bar do Machadinho
+4944350321,,,,Rua Professor Carlos Lobo,7,bar,True,-3.7951384,-38.4846492,Hiper Lanches
+5659224653,,184,,Rua Capitão Aragão,7,pharmacy,True,-3.7655432,-38.5160413,ExtraFarma
+243013030,Fortaleza,,,Avenida Desembargador Gonzaga,7,restaurant,True,-3.7982609,-38.49906334999999,Esquina do Baião
+243013031,Fortaleza,,,Avenida Desembargador Gonzaga,7,restaurant,True,-3.7984196499999996,-38.49964335,Divina Picanha
+243801387,Fortaleza,,,Rua Inácio Vasconcelos,7,school,True,-3.813649984158698,-38.49868223147746,Tiquinho de Gente
+246799935,Fortaleza,,,Avenida Viena Weyne,7,fast_food,True,-3.8014538895694656,-38.48881800677795,Ponto do Açaí
+259959709,Fortaleza,283,60743-760,Rua José da Franca Cabral,7,restaurant,True,-3.8085062049080154,-38.518420329094226,Pizzaria Dom Lazzio
+546711689,,,,Rua Djalma Petit,7,school,True,-3.7652587603300893,-38.51280932962843,E.E.F.M. Estado do Pará
+580577006,Fortaleza,45,,Rua Euclides Onofre de Souza,7,restaurant,True,-3.7980233563410826,-38.47913271275759,Espaço Gostoso Restaurante
+595923194,,859,,Avenida Desembargador Gonzaga,7,restaurant,True,-3.7949618442641597,-38.50078346787502,Rei da Pizza
+595923196,,550,,Avenida Oliveira Paiva,7,school,True,-3.7977943798983667,-38.50053534209328,E.E.F.M Walter de Sá Cavalcante
+3297673,Fortaleza,1321,,Avenida Washington Soares,7,university,True,-3.7721797875709706,-38.47907927624002,Universidade de Fortaleza
+8846759,Fortaleza,4500,,Avenida Juscelino Kubitschek,7,hospital,True,-3.8174671416316444,-38.53363556179183,Hospital Sarah Kubitschek
+8846760,Fortaleza,3480,,Avenida Frei Cirilo,7,hospital,True,-3.815569523788934,-38.49978174560101,Hospital Carlos Alberto Studart Gomes
+8992752,Fortaleza,1300,,Avenida 2 de Maio,7,school,True,-3.813483316051507,-38.53794036991301,Raimundo Moura Matos E.M.E.I.F.
+8992753,Fortaleza,s/n,,Avenida da Saudade,7,school,True,-3.813104781268113,-38.53725129777699,Integrada 2 de Maio EEFM
+4464798968,Fortaleza,176,60866290,Avenida Monsenhor Amarilio Rodrigues,3,restaurant,True,-3.8352015,-38.5198614,Pizzaria NL
+5285809154,Fortaleza,550,,Rua José Hipólito,3,dentist,True,-3.8336376,-38.4908972,Odontoart
+5516424197,Fortaleza,,,Avenida Bulevar 3,3,restaurant,True,-3.8352912,-38.5179685,Ezfomeadoz
+5534896714,,98,60866280,Avenida Bulevar 1,3,school,True,-3.8336206,-38.5189569,Colégio Menezes e Sousa
+5787291750,Fortaleza,481,60866681,Avenida Castelo de Castro,3,bank,True,-3.833456,-38.5213991,Loterias CAIXA
+5787291752,Fortaleza,261,60866290,Avenida Monsenhor Amarilio Rodrigues,3,restaurant,True,-3.8353528,-38.5214601,Universo do Açai
+5787291853,Fortaleza,674,60866681,Avenida Castelo de Castro,3,pharmacy,True,-3.8353655,-38.521737,Pague Menos
+5787564802,Fortaleza,95,60866290,Avenida Monsenhor Amarilio Rodrigues,3,restaurant,True,-3.8354063,-38.5192955,Marmitaria Popular
+5787590022,Fortaleza,,,Avenida Castelo de Castro,3,fast_food,True,-3.8335397,-38.5213863,Paulinha Doces e Salgados
+5790300257,Fortaleza,955,60875205,Avenida Contorno Sul,3,fast_food,True,-3.8354592,-38.5162881,Ivan Lanches
+5790300258,Fortaleza,,,Avenida Bulevar 1,3,restaurant,True,-3.8338294,-38.5213897,Açai de Primeira
+5790309340,Fortaleza,766,60866681,Avenida Castelo de Castro,3,restaurant,True,-3.8362768,-38.5217692,Puro Açai
+6416376598,Fortaleza,94,60866-625,Rua 513,3,cafe,True,-3.828729,-38.5149983,Socorro e Paulo
+6416389147,Fortaleza,31,60866-620,Rua 507,3,fast_food,True,-3.8292548,-38.5150461,Célia Lanches
+242892582,Fortaleza,,,Avenida Washington Soares,3,restaurant,True,-3.840088327495023,-38.479125881571704,Barraca 3 irmãs
+243234590,Fortaleza,1578,60864-810,Avenida Presidente Costa e Silva (Perimetral),3,hospital,True,-3.829462578918899,-38.50907574203264,Frotinha da Messejana
+245552905,Fortaleza,,,Rua Manuel Castelo Branco,3,bank,True,-3.83151045,-38.4925403,Banco do Brasil
+245552906,Fortaleza,,,Rua Padre Pedro de Alencar,3,pharmacy,True,-3.831893391063897,-38.49409953020746,Dose Certa
+246800292,Fortaleza,,,Avenida Frei Cirilo,3,fast_food,True,-3.8150689315813335,-38.498195102679944,UTI do Lanche
+255870856,Fortaleza,,,Rua Eduardo Porto,3,pharmacy,True,-3.8326071232085566,-38.49419999768807,Pague Menos
+495259259,Fortaleza,,,Avenida Doutor Joaquim Bento,3,school,True,-3.8284515000000003,-38.4860358,EMEIF Josefa Barros de Alencar
+495261402,Fortaleza,,,Rua Coronel Guilherme Alencar,3,school,True,-3.831436582174842,-38.49144514174375,Patronato
+559120411,Fortaleza,544,60873-010,Rua Capitão Porfírio,3,school,True,-3.8534091278470974,-38.50079089173435,EMEIF Bárbara de Alencar
+574084390,Fortaleza,630,,Avenida Valparaíso,3,driving_school,True,-3.8439387129940843,-38.52582615699091,Auto Escola Moderna
+633025944,Fortaleza,1559,,Rua Doutor Pergentino Maia,3,hospital,True,-3.832156004686842,-38.47979662243426,Hospital Geral Doutor Waldemar Alcântara
+658600423,,,,Rua Isabel Ferreira,3,school,True,-3.8293827284447812,-38.46697581644787,Isabel Ferreira
+3287642,Fortaleza,,,Avenida Frei Cirilo,3,school,True,-3.8229460637186783,-38.495564021809216,Colégio Seminário Seráfico Nossa Senhora do Brasil
+8846767,Fortaleza,7700,60811-341,Avenida Washington Soares,3,hospital,True,-3.8220895310066503,-38.481917420971016,Hospital Distrital Gonzaga Mota
+2052203002,Fortaleza,s/n,,Rua 41,9,bank,True,-3.8306744,-38.5576399,Bradesco (José Walter)
+2052203004,Fortaleza,330,,Avenida C,9,post_office,True,-3.8288412,-38.5547727,Correios José Walter
+2052206134,Fortaleza,1150,,Rua João Galberto,9,pharmacy,True,-3.8317845,-38.5606223,Pague Menos (José Walter)
+2052206136,Fortaleza,61,,Avenida João de Araújo Lima,9,restaurant,True,-3.8219485,-38.5581179,Esfiha & Cia (José Walter)
+4464251091,Fortaleza,11,,Avenida João de Araújo Lima,9,fast_food,True,-3.8215497,-38.5580405,Rei do Sanduíche (José Walter)
+4464251092,Fortaleza,21,,Avenida João de Araújo Lima,9,restaurant,True,-3.8216393,-38.5580837,Casa do Camarão (José Walter)
+4464251093,Fortaleza,120,,Rua 10,9,restaurant,True,-3.8223523,-38.5582796,Marcus da Picanha
+4464251094,Fortaleza,261,,Avenida João de Araujo Lima,9,restaurant,True,-3.8240675,-38.5585986,Salviano Churrascaria & Pizzaria
+4464251095,Fortaleza,1884,,Avenida João de Araújo Lima,9,fast_food,True,-3.823176,-38.5585304,Azzurra Pizzxzaria e Lanchonete
+4464257328,Fortaleza,,,Rua C,9,restaurant,True,-3.822266,-38.561177,Brasillis Pizzaria
+4464257329,Fortaleza,371,,Rua C,9,restaurant,True,-3.8218018,-38.5628377,Espetinho Las Vegas
+4464257330,Fortaleza,,,Rua C,9,pub,True,-3.8220324,-38.5627853,Bar da Kátia
+4464257331,Fortaleza,96,,Rua Mangaba,9,pub,True,-3.82218,-38.563035,Lima's Bar
+4464257332,Fortaleza,,,Rua C,9,pub,True,-3.8224259,-38.561442,Bar do Rui
+4464257334,Fortaleza,670,,Avenida A,9,restaurant,True,-3.823916,-38.5568158,Império Grill
+4464257337,Fortaleza,482,,Avenida A,9,school,True,-3.8243986,-38.5548425,E.E.F.M. Polivalente Modelo de Fortaleza
+4464279377,Fortaleza,192,,Avenida J,9,fast_food,True,-3.8269491,-38.5545666,Pastelaria Los Manos
+4464279378,Fortaleza,s/n,,Rua 26,9,school,True,-3.8266039,-38.5551379,E.M.E.I.F. Diogo Vital de Siqueira
+4464295470,Fortaleza,270,,Rua 57,9,school,True,-3.8280621,-38.5526238,Colégio Henrique Jorge
+4464295471,Fortaleza,160,,Avenida C,9,school,True,-3.8292293,-38.5536045,Colegio Vega
+4464295475,Fortaleza,485,,Avenida C,9,restaurant,True,-3.8288347,-38.5561129,Espetinho do Lenielson
+4464295476,Fortaleza,312,,Avenida C,9,restaurant,True,-3.8287397,-38.5563771,Kokito Restaurante
+4464295482,Fortaleza,545,,Rua 41,9,restaurant,True,-3.8303967,-38.5576337,Pedin Fast Food's
+4464954397,Fortaleza,180,,Avenida L,9,restaurant,True,-3.8261734,-38.5561506,Chico do Frango
+4465039532,,,,Rua 3,9,fast_food,True,-3.8183412,-38.5721375,BroKdos Lanchonete & Self Service
+4465039538,Fortaleza,506,,Rua Carlos Pimenta,9,school,True,-3.8151388,-38.5740307,Estado do Maranhão E.E.F.M.
+4465039540,,740,,Avenida Presidente Costa e Silva,9,restaurant,True,-3.8126739,-38.5728071,Veríssimo Mondubim
+4465039542,,80,,Rua Marcos Pólo,9,restaurant,True,-3.8153205,-38.5717564,Vivo Açaí
+4465085317,Fortaleza,62c,,Rua 14,9,restaurant,True,-3.8160855,-38.5686439,Meu Rei Pizzaria e Pastelaria
+4465141230,,104,,Rua 14,9,restaurant,True,-3.8162999,-38.5684664,Pizza's Do Hut
+4465141231,Fortaleza,,,Rua 10,9,school,True,-3.8170361,-38.5694378,Osmirio Barreto Escola
+4465141232,Fortaleza,1717,,Avenida Presidente Costa e Silva,9,restaurant,True,-3.8170175,-38.5662995,Churrascaria Assis Veríssimo I
+4465141234,Fortaleza,1801,,Avenida Presidente Costa e Silva,9,restaurant,True,-3.817092,-38.5660193,Pizzaria La Fornalha
+4465141235,Fortaleza,315,,Rua 07,9,bar,True,-3.8220421,-38.5658205,Lis Buffet
+4465156885,Fortaleza,211,,Rua 03,9,bar,True,-3.819041,-38.5668402,MeiryCake
+4465156886,Fortaleza,56,,Avenida 1,9,restaurant,True,-3.8182916,-38.565542,Lanchao
+4465156890,Fortaleza,10,,Rua 10,9,pub,True,-3.8187038,-38.5653864,Buteco da Dona Maria
+4465156891,Fortaleza,135,,Avenida 1,9,restaurant,True,-3.8188643,-38.5654347,Auri Lanches
+4465638441,Fortaleza,120,,Rua 5,9,restaurant,True,-3.8177255,-38.5735946,Ké Deliciasa
+4465638451,Fortaleza,833,,Rua Monte Líbano,9,restaurant,True,-3.8274249,-38.5638793,Choppao Restaurante Pizzaria
+4465638453,Fortaleza,140,,Rua Leste Oeste 5,9,school,True,-3.8266568,-38.5647644,Novo Renascer Emeif
+4465638460,,,,Rua Ipaumirim,9,pub,True,-3.8272493,-38.5707312,Bar do Reis
+4465659957,,1360,,Avenida 1,9,pharmacy,True,-3.8270138,-38.5705954,Farmácia Mão Amiga
+4465659959,Fortaleza,531,,Rua Artur de Sousa,9,pub,True,-3.8282632,-38.5718548,Loira Drink's Bar
+4465659965,Fortaleza,1251,,Rua Joaquim dos Anjos,9,pharmacy,True,-3.8300359,-38.5717522,Farmácia Vitalícia
+4465681242,Fortaleza,s/n,,Rua Planaltina,9,school,True,-3.8326882,-38.5696657,Liceu Professor Domingos Brasileiro
+4465681245,Fortaleza,928,,Rua Joaquim dos Anjos,9,restaurant,True,-3.8307566,-38.5695524,Frango do Pantanal
+4465681246,Fortaleza,1491,,Rua Antônio Pereira,9,school,True,-3.8308625,-38.5708301,CIES Centro Integrado de Educação e Saúde Zélia Correia
+4465681252,Fortaleza,1260,,Rua Paranaí,9,restaurant,True,-3.8328785,-38.5687808,Cintia Lanches
+4465681253,Fortaleza,s/n,,Rua Pedro Jorge,9,school,True,-3.8332598,-38.5681994,E.E.F.M. Deputado Joaci Pereira
+4465681254,Fortaleza,1260,,Rua Zuleica Pontes,9,school,True,-3.8321159,-38.5660569,E.M.I.F. Geisa Firmo Gonçalves
+4465681256,Fortaleza,123,,Rua Lucas Avelino,9,restaurant,True,-3.8294144,-38.562337,Come Bem Lanchonete
+4465684864,Fortaleza,66,,Rua Lucas Avelino,9,restaurant,True,-3.8282892,-38.5619308,Que Frango - Galeto Delivery
+4465688228,Fortaleza,13285,,Avenida Bernardo Manuel,9,school,True,-3.8337314,-38.5627547,Centro Educacional Doris Johnson
+4466275261,Fortaleza,833,,Avenida Poebla,9,school,True,-3.8396883,-38.5635884,Instituto Pedagogico Labouré
+4466275268,Fortaleza,1780,,Avenida João de Araujo Lima,9,restaurant,True,-3.8374271,-38.5617442,Restaurante 2 Irmãos Paulinho e Dedé
+4466275270,Fortaleza,1762,,Avenida João de Araujo Lima,9,restaurant,True,-3.836855,-38.561638,Cantinho Dona Jô
+4466275271,Fortaleza,1707,,Avenida João de Araujo Lima,9,restaurant,True,-3.8369539,-38.5612557,Churrascaria Sabor & Cia
+4466275273,Fortaleza,740b,,Avenida G,9,restaurant,True,-3.8371164,-38.5609089,Marmitaria Manas
+4466275275,Fortaleza,580,,Avenida L,9,pharmacy,True,-3.8375295,-38.5595695,Fármacia Viviane
+4466275279,Fortaleza,581,,Avenida G,9,cafe,True,-3.837784,-38.5596435,Café Livre
+4466275281,Fortaleza,701,,Avenida G,9,school,True,-3.8374934,-38.5606011,Colégio Lima Silva
+4466275284,Fortaleza,731,,Avenida G,9,restaurant,True,-3.8373122,-38.5607707,EsQuina Do Pastel
+4466355545,Fortaleza,585,,Avenida G,9,restaurant,True,-3.8377406,-38.5597183,Real Sabores
+4466355550,Fortaleza,142,,Rua 64,9,fast_food,True,-3.8378905,-38.5590987,Açai Praça da 3 Lanchonete Ponto do Açaí Potente
+4466355551,Fortaleza,164,,Rua 64,9,fast_food,True,-3.8378289,-38.5591604,Espaço da Loura
+4466355552,Fortaleza,142,,Rua 64,9,fast_food,True,-3.8379226,-38.5590061,Vitaminão Lanches & Vitaminas
+4466355553,Fortaleza,164,,Rua 64,9,fast_food,True,-3.8379627,-38.5588975,Jesa Lanches
+4466355554,Fortaleza,164,,Rua 64,9,fast_food,True,-3.8380082,-38.5588063,Bigode do Churrasco
+4466355556,Fortaleza,121,,Rua 64,9,restaurant,True,-3.8381795,-38.5588975,Panela de Barro
+4466355558,Fortaleza,90,,Rua 64,9,fast_food,True,-3.8380845,-38.5586454,Point das Fritas
+4466355559,Fortaleza,90,,Rua 64,9,fast_food,True,-3.8380711,-38.5586722,Sunsplash Lanches
+4466355563,Fortaleza,s/n,,Rua 45,9,school,True,-3.8377473,-38.5584321,E.M.E.I.F. Rogaciano Leite
+4466355564,Fortaleza,50,,Rua 62,9,restaurant,True,-3.8374128,-38.5581049,Cia da Esfiha (Praça da 3)
+4466355565,Fortaleza,60,,Rua 62,9,restaurant,True,-3.8373726,-38.5583162,Restaurante e Frigorífico Quero Mais
+4466355566,Fortaleza,70,,Rua 62,9,pharmacy,True,-3.8373559,-38.5583497,Farmácia José Walter
+4466355568,Fortaleza,78,,Rua 45,9,fast_food,True,-3.837281,-38.5585555,Bella Pizza (Praça da 3)
+4466355569,Fortaleza,120,,Rua 62,9,fast_food,True,-3.8371846,-38.558921,Lanlan Sanduiches
+4466355570,Fortaleza,140,,Rua 62,9,school,True,-3.8371371,-38.5591496,Colégio Silvia Helena
+4466392500,Fortaleza,1251a,,Avenida J,9,fast_food,True,-3.836024,-38.5570321,Bom Pastel & Massas
+4466392502,Fortaleza,1461,,Avenida J,9,school,True,-3.8378535,-38.5575974,Colégio Mackenzie
+4466392503,Fortaleza,1531,,Avenida J,9,fast_food,True,-3.8385386,-38.5578254,Pizza Fabulosa
+4466392505,Fortaleza,1561,,Avenida J,9,school,True,-3.8388049,-38.5579086,Colégio Jorge Amado
+4466392508,Fortaleza,430,,Avenida H,9,school,True,-3.8409505,-38.5593593,E.M.E.I.F. Ari de Sá Cavalcante
+4466392512,Fortaleza,1481,,Avenida L,9,fast_food,True,-3.8377777,-38.5593441,Milla do Brasil Lanches
+4466456071,Fortaleza,1681,,Avenida João de Araujo Lima,9,restaurant,True,-3.8365463,-38.5611324,Tempero Nobre
+4466456072,Fortaleza,1681,,Avenida João de Araujo Lima,9,restaurant,True,-3.836565,-38.5611458,Gago Grill
+4466456075,Fortaleza,1584,,Avenida João de Araujo Lima,9,fast_food,True,-3.8357996,-38.5614596,Lanchonete Caninde
+4466527285,Fortaleza,1101,,Avenida L,9,school,True,-3.8346045,-38.5584329,Ceja (José Walter)
+4466527288,Fortaleza,471,,Avenida E,9,school,True,-3.8342741,-38.5580185,E.E.E.P. Professor Onélio Porto
+4466658147,Fortaleza,1209,,Avenida I,9,fast_food,True,-3.8345993,-38.5537217,Companhia Do Pastel
+4466658153,Fortaleza,920a,,Avenida I,9,restaurant,True,-3.8323326,-38.5530002,Sabor do Baião - Churrascaria e Pizarria
+4466658154,Fortaleza,5,,Avenida D,9,restaurant,True,-3.8325145,-38.5532872,Graça Lanchonete e Marmitaria
+4466658156,Fortaleza,91,,Avenida D,9,restaurant,True,-3.8322496,-38.5541696,Skina do Frango Assado
+4466658164,Fortaleza,451,,Rua 56,9,school,True,-3.8324637,-38.5573642,Instituto PedagógicoMundo Feliz
+4466658166,Fortaleza,501,,Avenida D,9,pharmacy,True,-3.831238,-38.5574419,Farmácia Iparana
+4466658168,Fortaleza,901,,Avenida João de Araujo Lima,9,restaurant,True,-3.8297928,-38.5598613,Frango Real Galeteria e Pizzaria
+4466658169,Fortaleza,120,,Rua 54,9,restaurant,True,-3.8298624,-38.5596869,Delícia Caseira Self Service e Restaurante
+4466658171,Fortaleza,751,,Avenida D,9,fast_food,True,-3.8306358,-38.5594348,Point Salgados
+4466658178,Fortaleza,1054,,Avenida João de Araujo Lima,9,pharmacy,True,-3.8310373,-38.5604192,Extrafarma (José Walter)
+4466658179,Fortaleza,1054,,Avenida João de Araujo Lima,9,pharmacy,True,-3.831131,-38.5604836,Droga Félix (José Walter)
+4466658180,Fortaleza,1240,,Avenida João de Araujo Lima,9,school,True,-3.8325841,-38.5607706,Colégio 21 Educar
+4466698130,Fortaleza,13285,,Avenida Bernardo Manuel,9,school,True,-3.8340605,-38.5618784,Centro Educacional Doris Johnson
+4466698134,Fortaleza,771,,Avenida João de Araujo Lima,9,restaurant,True,-3.8286181,-38.559478,Frango.com
+4468043563,Fortaleza,561,,Rua Poeta Mário Linhares,9,school,True,-3.8225289,-38.5548705,E.M.E.I.F. Francisco Nunes Cavalcante
+4468043586,Fortaleza,,,Rua 69,9,restaurant,True,-3.8301021,-38.5544991,Point do Camarão
+4468043587,Fortaleza,,,Rua 71,9,pub,True,-3.8301758,-38.5543882,O Neguinho
+4468048290,Fortaleza,250,,Rua 65,9,school,True,-3.8303086,-38.5585624,Vania Neves E.M.E.I.F.
+4468058917,Fortaleza,s/n,,Rua 51,9,pub,True,-3.8271905,-38.5536005,Bar do Paçoca
+4468114743,Fortaleza,41,,Avenida João de Araújo Lima,9,fast_food,True,-3.82183,-38.5581318,Açaí do Junão
+4468114744,Fortaleza,31,,Avenida João de Araújo Lima,9,fast_food,True,-3.8217419,-38.5580655,Pastel Mix (José Walter)
+4468608160,Fortaleza,3181,,Avenida Godofredo Maciel,9,restaurant,True,-3.8035975,-38.5718526,Habib's Maraponga
+4468608161,Fortaleza,3033,,Avenida Godofredo Maciel,9,bar,True,-3.8022166,-38.5714771,Baião de 10
+4468693559,Fortaleza,3780,,Avenida Godofredo Maciel,9,restaurant,True,-3.8079484,-38.5736424,Gatim Churrascaria
+4468693560,Fortaleza,3888,,Avenida Godofredo Maciel,9,restaurant,True,-3.8090349,-38.574034,Nonato Lanchonete
+4468693561,Fortaleza,3884,,Avenida Godofredo Maciel,9,restaurant,True,-3.8085907,-38.5739213,Paulinho da Maraponga
+4468693562,Fortaleza,3862,,Avenida Godofredo Maciel,9,restaurant,True,-3.8087532,-38.5740286,Villa Mará
+4468693563,Fortaleza,3820,,Avenida Godofredo Maciel,9,bar,True,-3.8082535,-38.5738838,Mega Hits
+4468693564,Fortaleza,3933,,Avenida Godofredo Maciel,9,ice_cream,True,-3.8090039,-38.5735527,Trevo Gelateria (Maraponga)
+4468693565,Fortaleza,3933,,Avenida Godofredo Maciel,9,fast_food,True,-3.8087739,-38.5734934,Pastel na Hora
+4469011061,Fortaleza,270,,Rua Jorge Ralpp,9,pub,True,-3.8115785,-38.5722963,Bar do Neto
+4469011064,Fortaleza,409,,Rua Jorge Ralpp,9,school,True,-3.8117015,-38.5718803,Colégio Pinheirinho
+4469011066,Fortaleza,445,,Rua General Onofre,9,school,True,-3.808103,-38.5695924,Colégio Conectivo
+4469011067,Fortaleza,325,,Rua Castro Meireles,9,school,True,-3.8075209,-38.5697887,Majestic Colegio
+4469011071,Fortaleza,374,,Rua Doutor Rodrigo Codes Sandoval,9,school,True,-3.8065754,-38.568985,E.M.E.I.F. Professor Jacinto Botelho
+4469011072,Fortaleza,570,,Avenida Benjamin Brasil,9,bar,True,-3.80475,-38.5682532,Garden Buffet
+4469011074,Fortaleza,621,,Rua Clemente Silva,9,bar,True,-3.8051273,-38.5683305,Spazio Buffet
+4469011078,Fortaleza,437,,Avenida Benjamin Brasil,9,restaurant,True,-3.8039144,-38.5693875,Deliciosas Tapiocas Recheadas
+4469011079,Fortaleza,1489,,Rua Leon Gradvohl,9,restaurant,True,-3.8036223,-38.5692899,Lu e Lu Lanches
+4469011080,Fortaleza,3255,,Avenida Godofredo Maciel,9,fast_food,True,-3.8045066,-38.5720829,Burger Express
+4469011083,Fortaleza,3511,,Avenida Godofredo Maciel,9,restaurant,True,-3.8062306,-38.5727496,Via Pizza Restaurante e Pizzaria
+4469011084,Fortaleza,3399,,Avenida Godofredo Maciel,9,restaurant,True,-3.8051597,-38.5723431,Hanna Lanches
+4469012489,Fortaleza,2947,,Avenida Godofredo Maciel,9,fast_food,True,-3.8016168,-38.5712928,Big Monster
+4469521089,Fortaleza,2727,,Avenida Godofredo Maciel,9,fast_food,True,-3.79926,-38.570431,Bob's
+4469521091,Fortaleza,2640,,Avenida Godofredo Maciel,9,fast_food,True,-3.7987618,-38.5709523,Azilados
+4469521092,Fortaleza,2640,,Avenida Godofredo Maciel,9,fast_food,True,-3.7986215,-38.570909,Subway (Maraponga)
+4469521094,Fortaleza,2640,,Avenida Godofredo Maciel,9,restaurant,True,-3.7988912,-38.5709867,Benvenutti Restaurante
+4469521097,Fortaleza,2560,,Avenida Godofredo Maciel,9,fast_food,True,-3.798258,-38.5706342,Bebelu (Maraponga)
+4469521098,Fortaleza,295,,Avenida Godofredo Maciel,9,fast_food,True,-3.7984081,-38.5702562,Real Sanduíche
+4469521100,Fortaleza,2575,,Avenida Godofredo Maciel,9,pharmacy,True,-3.7979741,-38.5701911,Drogafélix Maraponga
+4469521102,Fortaleza,2543,,Avenida Godofredo Maciel,9,restaurant,True,-3.7976374,-38.5699472,Japamania (Japa Mania Maraponga)
+4469521103,Fortaleza,2541,,Avenida Godofredo Maciel,9,fast_food,True,-3.7974995,-38.5699187,Friends Lanchonete
+4469521104,Fortaleza,2533,,Avenida Godofredo Maciel,9,fast_food,True,-3.7973331,-38.5698577,De Anjo Burger
+4469521106,Fortaleza,2525,,Avenida Godofredo Maciel,9,restaurant,True,-3.797037,-38.5697724,Skina do Camarão
+4469521108,Fortaleza,2438,,Avenida Godofredo Maciel,9,fast_food,True,-3.7967409,-38.5701505,Espetinho do Camilo
+4469521109,Fortaleza,2438,,Avenida Godofredo Maciel,9,fast_food,True,-3.7971465,-38.5702399,Noble Pig Sanduicheria
+4469521110,Fortaleza,2435,,Avenida Godofredo Maciel,9,pharmacy,True,-3.7967855,-38.5696667,Extrafarma Maraponga
+4469521113,Fortaleza,2371,,Avenida Godofredo Maciel,9,pharmacy,True,-3.7961638,-38.5695422,Pague Menos (Maraponga)
+4469521114,Fortaleza,2238,,Avenida Godofredo Maciel,9,bank,True,-3.7949984,-38.569889,Caixa Econômica Federal (Maraponga)
+4469521115,Fortaleza,2201,,Avenida Godofredo Maciel,9,fast_food,True,-3.7953127,-38.5693369,Dona Pizza Delivery
+4469521119,Fortaleza,911,,Rua Francisco Glicério,9,bar,True,-3.795827,-38.5705227,Spazio Buffet Expansão
+4469548746,Fortaleza,550,,Rua Vidal de Negreiros,9,school,True,-3.8005607,-38.5661535,Colégio Marista Maraponga
+4469548752,Fortaleza,315,,Rua Francisco Glicério,9,bar,True,-3.7976985,-38.5644499,Martan Buffet
+4469976492,Fortaleza,320,,Rua Carlos Studart,9,bar,True,-3.7941619,-38.5684461,Espaço Comemore
+4469976493,Fortaleza,29,,Rua 2,9,school,True,-3.8006616,-38.5653196,Colégio Universo Kids
+4469976494,Fortaleza,1091a,,Avenida Benjamin Brasil,9,fast_food,True,-3.8057408,-38.5646408,Rei do Sanduíche Maraponga
+4469976501,Fortaleza,374,,Rua Antônio Divino,9,restaurant,True,-3.8053179,-38.562259,Camarão Do Chef
+4469976502,Fortaleza,348,,Rua Antônio Divino,9,pub,True,-3.8054571,-38.5623985,Toquinho´s Bar
+4469976507,Fortaleza,550,,Rua S,9,bar,True,-3.8075428,-38.5586314,Garden Buffet Conceito
+4469976508,Fortaleza,1685,,Avenida Benjamin Brasil,9,restaurant,True,-3.8078997,-38.5588144,4 Estylo's
+4470018463,Fortaleza,10300,,Avenida Bernardo Manuel,9,restaurant,True,-3.8097606,-38.5549236,Churrascaria e Galeteria 2 Irmãos
+4470018464,Fortaleza,2358,,Avenida Benjamin Brasil,9,restaurant,True,-3.8093646,-38.5560877,4 Estylos Delivery
+4470018472,Fortaleza,549,,Rua Olímpia de Noronha,9,school,True,-3.813486,-38.5593519,José Escolar Portela
+4470018473,Fortaleza,879,,Rua Vereadora Zélia Correia de Souza,9,restaurant,True,-3.813486,-38.5575253,Escondidinho do Caranguejo
+4470018474,Fortaleza,906,,Rua Vereadora Zélia Correia de Souza,9,restaurant,True,-3.8128584,-38.5573687,Churrascaria Personalidade
+4470018475,Fortaleza,10990,,Travessa São José,9,restaurant,True,-3.8143004,-38.5568199,Spettu's Grill Petiscaria
+4470092258,Fortaleza,11360,,Avenida Bernardo Manuel,9,school,True,-3.8188955,-38.5578294,E.M.E.I.F. Casimiro Montenegro
+4470092274,Fortaleza,2491,,Rua Nova,9,restaurant,True,-3.8438177,-38.5630679,Espetinho do Jefim
+4478193792,Fortaleza,850,,Rua Waldir Diogo,9,school,True,-3.8038139,-38.5855692,E.M.E.I.F. Hilza Diogo Cals
+4478193793,Fortaleza,1055,,Rua Waldir Diogo,9,school,True,-3.8029566,-38.587774,Colégio Ademir Araújo
+4478193797,Fortaleza,3686,,Avenida Cônego de Castro,9,pharmacy,True,-3.7992124,-38.5867332,Pague Menos (Parque São José)
+4478193798,Fortaleza,1267,,Rua Doutor João Amora,9,restaurant,True,-3.799756,-38.5849891,Pizzaria Sabor da Pizza
+4809975826,,1760,,Avenida João de Araujo Lima,9,restaurant,True,-3.8371756,-38.5616591,Canto da Pizza
+5135421546,,,,Avenida G,9,fast_food,True,-3.8374013,-38.5595044,Açai do Patrão
+5135556246,Fortaleza,130,,Avenida J,9,pharmacy,True,-3.8260513,-38.5542731,Farmácia Nordeste
+5135565323,Fortaleza,480,,Avenida E,9,ice_cream,True,-3.8339283,-38.558294,Soft Plus
+5135585178,Fortaleza,731,,Avenida G,9,fast_food,True,-3.8373663,-38.5607981,Esquina do Pastel
+5145702984,Fortaleza,1260,60763-730,Avenida Contorno Norte,9,school,True,-3.8131876,-38.5882789,Colégio Teleyos
+5149989754,Fortaleza,72,,Rua Fenando F. de Melo,9,fast_food,True,-3.7908476,-38.578285,Thiago Lanches Pizzaria
+5150945983,Fortaleza,110,60763-590,Rua 110,9,school,True,-3.8108271,-38.5914075,Centro Educacional São Matheus
+5150953234,Fortaleza,120,60763-540,Rua 105,9,school,True,-3.8127937,-38.589742,Colégio Queiroz Belém
+5156235840,Fortaleza,301,,Rua 4,9,pub,True,-3.80252,-38.5628492,Bar Recanto dos Amigos
+5156243832,Fortaleza,385,,Rua 1,9,pub,True,-3.8035822,-38.5638836,Pub dos Ingleses
+5156309388,Fortaleza,,,Rua Rosa Cruz,9,ice_cream,True,-3.8002306,-38.5649504,Tropical Açaí
+5156320660,Fortaleza,,,Avenida Benjamin Brasil,9,restaurant,True,-3.8081516,-38.5580483,Camarão D'ellas
+5156341787,Fortaleza,286,,Rua Vidal de Negreiros,9,fast_food,True,-3.7992583,-38.5642519,Pizzaria Top Família
+5198676622,,105,,Rua Luís Vieira,9,restaurant,True,-3.7975537,-38.5861166,Pizzaria El Patron
+5226479552,Fortaleza,90,,Rua Oscar Benevides,9,restaurant,True,-3.8102689,-38.5732402,Rancho do Poço
+5300071988,Fortaleza,,,Avenida Penetração Oeste,9,school,True,-3.815105,-38.5893562,EEEFM Adalgisa Bonfim Soares
+5300072261,fortaleza,,,Avenida Contorno Sul,9,cafe,True,-3.8178622,-38.5900026,Clarita Coffee
+5300072262,fortaleza,,,Avenida Contorno Sul,9,restaurant,True,-3.8183889,-38.5895791,Bom D+
+5300072263,fortaleza,,,Avenida Contorno Sul,9,restaurant,True,-3.818446,-38.5894553,Yuki Sushi Bar
+5300072264,fortaleza,,,Avenida F,9,pharmacy,True,-3.8182096,-38.5893153,Farmacia Pró-Saude
+5300072265,fortaleza,,,Avenida Contorno Sul,9,bank,True,-3.8178602,-38.5900454,Caixa do Banco 24hs.
+5300072266,fortaleza,35,,Avenida A,9,restaurant,True,-3.8177095,-38.588998,Central Da Pizza
+5300072267,fortaleza,102-104,,Avenida A,9,restaurant,True,-3.8161985,-38.5897126,Churrascaria E Pizzaria Cantinho Do Céu
+6296298285,Fortaleza,249,60751290,Rua H,9,restaurant,True,-3.8330167,-38.548638,Delícia Paulista
+487846760,,1545,,Avenida Contorno Norte,9,pharmacy,True,-3.811596079504105,-38.58982911371829,Drogaria Fortaleza
+531147238,Fortaleza,70,,Rua 10,9,school,True,-3.800532987951919,-38.564092045680674,Colégio Universo do Saber
+543880081,Fortaleza,,,Avenida Cônego de Castro,9,school,True,-3.8076528698738064,-38.59330484796619,EEEP Darcy Ribeiro
+552629121,Fortaleza,,60764-280,Rua 105,9,restaurant,True,-3.808216826387444,-38.590570932131165,Autos Lanches
+558000144,Fortaleza,850,60.764-020,Rua Waldir Diogo,9,school,True,-3.803880866754299,-38.58556165306015,EMEIF Hilza Diogo Cals
+558075165,Fortaleza,4055,,Avenida Cônego de Castro,9,school,True,-3.8017199633547207,-38.588532060662715,E.E.F.M. Irmão Urbano González Rodriguez
+564834979,Fortaleza,s/n,,Rua 11,9,school,True,-3.7992932412017533,-38.56296994728699,E.M.E.I.F. João Estanislau Façanha
+668486641,Fortaleza,,,Rua José Dantas Pereira,9,school,True,-3.82113948429936,-38.60853920124829,Escola Municipal Jornalista Demócrito Dummar
+668507875,Fortaleza,2381,60713-305,Avenida Cônego de Castro,9,school,True,-3.820890574415835,-38.603260145109346,ETI Professora José Maria Ferreira Gome
+679299393,,,60734290,Rua Pedestre XIII,9,school,True,-3.8174943153425676,-38.602014051388856,COLÉGIO PADRE ANTÔNIO MONTEIRO DA CRUZ
+7837318,Fortaleza,1732,,Avenida Godofredo Maciel,9,restaurant,True,-3.7936688999999997,-38.56913836666667,Galeteria Dois Irmãos
+7837323,Fortaleza,2106,60710-000,Avenida Godofredo Maciel,9,school,True,-3.7938599999999996,-38.56987683333333,Colégio Provecto
+8846741,Fortaleza,435,,Avenida C,9,school,True,-3.8293194052107875,-38.55568027297912,E.E.M. Professor Otávio Terceiro de Farias
+8846743,Fortaleza,380,60750-830,Avenida D,9,school,True,-3.8313731646648828,-38.55622680827342,Minha vida meus amores
+8846751,Fortaleza,s/n,,Avenida C,9,school,True,-3.829486133333333,-38.55706273333334,E.M.E.I.F. Rachel de Queiroz
+8846757,Fortaleza,440,,Avenida D,9,hospital,True,-3.8311215464835815,-38.55700881390565,Hospital Distrital Gonzaga Mota José Walter
+4470676509,Fortaleza,283,,Avenida Ministro Albuquerque Lima,2,bar,True,-3.7677491,-38.6085619,Marta´s Buffet
+4470676510,Fortaleza,353,,Avenida Ministro Albuquerque Lima,2,school,True,-3.7679722,-38.6082013,Colegio Evandro
+4470676512,Fortaleza,780,,Avenida (B) Alanis Maria Laurindo de Oliveira,2,pharmacy,True,-3.7684475,-38.6075254,Droga Nova Farmácia
+4470676516,Fortaleza,423,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7686276,-38.607612,Espetinho do Eudênio
+4470676520,Fortaleza,101,,Avenida Ministro Albuquerque Lima,2,pub,True,-3.7674279,-38.6098113,Zequinha Bar
+4470676521,Fortaleza,90,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.767114,-38.6102765,Chapolin Pizzaria
+4470682641,Fortaleza,407,,Avenida Ministro Albuquerque Lima,2,fast_food,True,-3.7683572,-38.6076922,Pastel na Hora
+4470682644,Fortaleza,344,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7684322,-38.6081227,Boteco do Camarão
+4470747573,Fortaleza,80,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7669428,-38.610496,Totta Comida Regional
+4470747580,Fortaleza,131,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7668739,-38.6098625,Ponto do Pastel Lanchonete
+4470747583,Fortaleza,267,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7674707,-38.6086291,Varandão Churrascaria e Pizzaria
+4470747584,Fortaleza,s/n,,Avenida C,2,restaurant,True,-3.7662604,-38.6107912,Manos Churrascaria
+4470747586,Fortaleza,125,,Rua 202 A,2,restaurant,True,-3.7670265,-38.6084313,Labella Pizza
+4470747587,Fortaleza,630,,Rua 218,2,restaurant,True,-3.7665346,-38.6082557,Vava Pastel
+4470747588,Fortaleza,400,,Rua 218,2,restaurant,True,-3.7646807,-38.6075224,Skina Do Espetinho
+4470790520,Fortaleza,121,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7668046,-38.6101267,Maacho!! Burgers
+4470790521,Fortaleza,66,,Rua 151,2,school,True,-3.7693186,-38.6074741,Auto Escola Omega
+4470790524,Fortaleza,610,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.769773,-38.6069067,Ceviche Sushi
+4470790525,Fortaleza,116,,Rua 151,2,school,True,-3.7697986,-38.6068133,Qi Educação Profissional
+4470864229,Fortaleza,738,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7701504,-38.6062693,Imperador Pizzariae Lanchonete
+4470864231,Fortaleza,804,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7704749,-38.6057763,Sabor Doces e Salgados
+4470864232,,,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7705479,-38.6055791,Japamania Conjunto Ceará
+4470864234,Fortaleza,848,,Avenida Ministro Albuquerque Lima,2,bar,True,-3.7705986,-38.6054348,Tô em Casa
+4470864237,Fortaleza,958,,Rua 723,2,pharmacy,True,-3.7709632,-38.6042975,Pague Menos
+4470869070,Fortaleza,999,,Avenida Ministro Albuquerque Lima,2,fast_food,True,-3.7706501,-38.6039086,HB Lanches
+4470869071,Fortaleza,1009,,Avenida Ministro Albuquerque Lima,2,fast_food,True,-3.7706782,-38.6036886,Hang Lanches Conjunto Ceará
+4470870033,Fortaleza,999,,Avenida Ministro Albuquerque Lima,2,restaurant,True,-3.7706635,-38.6037972,Nory Sushi
+4470872727,Fortaleza,,,Avenida A,2,pharmacy,True,-3.7701201,-38.6046944,Extrafarma
+4471387732,Fortaleza,951,,Avenida A,2,pharmacy,True,-3.7686334,-38.6039193,Baratão dos Medicamentos
+4477509340,Fortaleza,2315,,Avenida H,2,restaurant,True,-3.7769074,-38.6189348,Oxente Restô
+4477509349,Fortaleza,s/n,,Avenida H,2,pub,True,-3.7766933,-38.6194363,Bar do Morais
+4477509350,Fortaleza,s/n,,Rua 928,2,school,True,-3.7768378,-38.6206138,Marinheiro Popeye Baby
+4477561842,Fortaleza,1679,,Avenida C,2,fast_food,True,-3.7730464,-38.6152994,Pastelaria O Francisco
+4477561843,Fortaleza,1979,,Avenida C,2,restaurant,True,-3.7761599,-38.6161959,Casa do Camarão (Conjunto Ceará)
+4477589838,Fortaleza,s/n,,Rua 329,2,restaurant,True,-3.7719126,-38.6133427,Rafa Spettus
+4477665581,Fortaleza,s/n,,Avenida C,2,bar,True,-3.7662958,-38.6116347,Espaço Verde (Conjunto Ceará)
+4477780808,Fortaleza,2959,,Rua Vital Brasil,2,fast_food,True,-3.7756456,-38.6077898,Bebelu (Conjunto Ceará)
+4477821485,Fortaleza,60,,Rua 842,2,restaurant,True,-3.7704981,-38.6027982,Rosinha dos Pratim
+4477821486,Fortaleza,198,,Rua 834,2,restaurant,True,-3.7693312,-38.603324,Marmitaria Irmã Ivone
+4477889787,Fortaleza,901,,Avenida H,2,bank,True,-3.7753479,-38.6056588,Caixa Econômica Federal (Conjunto Ceará)
+4477889891,Fortaleza,s/n,,Avenida A,2,post_office,True,-3.7755518,-38.6058763,Correios (Granja Portugal)
+4477970076,Fortaleza,550,,Rua Duas Nações,2,school,True,-3.7771012,-38.6019506,E.M.E.I.F. Conceição Mourão
+4477970083,Fortaleza,1055,,Rua Duas Nações,2,school,True,-3.7814274,-38.603164,E.M.E.I.F. Creusa do Carmo Rocha
+4477970084,Fortaleza,1175,,Rua Teodoro de Castro,2,school,True,-3.7810527,-38.6013347,E.M.E.I.F. Reitor Antônio Martins Filho
+4477970085,Fortaleza,s/n,,Rua Antônio Nelis,2,school,True,-3.7819412,-38.6015869,Casa Brasil
+4477971993,Fortaleza,1734,,Rua Emílio de Menezes,2,pharmacy,True,-3.7790209,-38.5966136,Farmácia Carvalho
+4477971995,Fortaleza,1775,,Rua Emílio de Menezes,2,pharmacy,True,-3.7789114,-38.5970872,Farmácia Oficial
+4560890314,,390,,Rua 725,2,restaurant,True,-3.7716159,-38.6032904,Doce Desejo Sorveteria
+4743623486,Fortaleza,711,60533-690,Avenida B,2,post_office,True,-3.7683045,-38.6061245,Agência de Correios
+4873152176,,3794,,Rua Manuel Galdino,2,school,True,-3.789858,-38.6253343,Escola Sonho de Criança
+4873166749,,3311,,Rua Martins Carvalho,2,restaurant,True,-3.7894346,-38.6245625,Restaurante Cavalcante
+4873166751,,2013,,Rua Sargento João Pinheiro,2,restaurant,True,-3.7893062,-38.624533,Girassol Delicatessen
+5120698315,Fortaleza,,60540282,Rua Coronel João Correia,2,restaurant,True,-3.7862491,-38.6227804,Churrasco do Eudes
+5283074225,Fortaleza - CE,1040,60544-311,Rua Urucutuba,2,restaurant,True,-3.7969314,-38.6040281,#BOM AÇAI
+369602609,,240,,Rua 614,2,school,True,-3.764842100663752,-38.60452642783079,Colégio Valdemir Martins
+386663870,Fortaleza,633,,Avenida Ministro Albuquerque Lima,2,fast_food,True,-3.7695471000000005,-38.6064257,Bar Esquina do Baião
+386732265,Fortaleza,s/n,60531-700,Rua 717,2,school,True,-3.7728748936449295,-38.601231410175444,EEEP Professor César Campelo
+388091187,Fortaleza,,,Rua 1191,2,pharmacy,True,-3.770191819965097,-38.616717712133834,Farmácia Jacqueline
+388091190,Fortaleza,s/n,,Rua 1052,2,fast_food,True,-3.7654497,-38.613473400000004,Piazza Milk Show
+388143030,Fortaleza,91,,Rua 218 A,2,ice_cream,True,-3.7639269814120464,-38.60756889751362,Ki Sorvetão
+388150963,Fortaleza,44,,Avenida F,2,pharmacy,True,-3.7629755806599605,-38.60930154690161,Farmácia Iolanda
+388150966,Fortaleza,174,,Avenida F,2,school,True,-3.7634938754568146,-38.60827353794355,Colégio Centro Educacional 9 de Junho
+388150969,Fortaleza,376,60533-642,Avenida F,2,cafe,True,-3.7641990693147958,-38.60632930645417,BooKafé
+388150970,Fortaleza,410,,Avenida F,2,restaurant,True,-3.764260226011823,-38.60598253333333,Cantinho do Camarão
+388150973,Fortaleza,353,60533-690,Avenida Ministro Albuquerque Lima,2,school,True,-3.7678404851316034,-38.60801880200937,Centro Educacional Evandro Ayres de Moura
+388168410,Fortaleza,885,,Avenida Ministro Albuquerque Lima,2,bank,True,-3.7703579266051963,-38.60477059731901,Banco do Brasil (Conjunto Ceará)
+388168413,Fortaleza,1008,,Avenida A,2,bank,True,-3.7699319803444857,-38.60468768487568,Bradesco (Conjunto Ceará)
+547145512,,,,Rua Canal Leste,2,school,True,-3.8019605817750963,-38.614372038257585,Escola Edilson Brasil Soares
+661248670,Fortaleza,360,60531-760,Rua 729,2,school,True,-3.7724581580307373,-38.60377204120727,Colégio Cora Coralina
+5701008,Fortaleza,,60533-540,Rua 1159,2,school,True,-3.762265466666667,-38.61199523333333,EMEIF Ademar Nunes Batista
+5704545,Fortaleza,s/n,,Rua 1074,2,school,True,-3.76883355,-38.61515345000001,E.E.F.M. Professor Edmilson Guimarães de Almeida (UV10)
+5704546,Fortaleza,s/n,,Rua 820,2,school,True,-3.768864179987868,-38.60062739557691,E.E.M. Professor José Maria Campos de Oliveira (UV8 A)
+5704552,Fortaleza,s/n,,Rua 143,2,school,True,-3.771856633333333,-38.60806873333333,E.M.E.I.F. Governador Faustino de Albuquerque (UV1)
+5704554,Fortaleza,s/n,,Rua 218,2,school,True,-3.7650920767995664,-38.60796538371835,E.E.F.M. Gentil Barreira (UV2)
+5704558,Fortaleza,s/n,,Rua 814,2,school,True,-3.7683128333333333,-38.59947403333332,E.M.E.I.F Padre Arimateia Diniz (UV8 B)
+5706607,Fortaleza,s/n,,Rua 315,2,school,True,-3.773813266666666,-38.61392669999999,E.M.E.I.F. Edilson Brasil Soarez (UV3)
+5739512,Fortaleza,,,Rua 1107,2,school,True,-3.7619702000000004,-38.611534166666665,Centro de Estudo Espedito Rosa
+5755984,Fortaleza,719,,Rua 719,2,school,True,-3.771930733333334,-38.60212800000001,E.E.F.M. Professor Plácido Aderaldo Castelo (UV7 A)
+5755990,Fortaleza,s/n,,Rua 751,2,school,True,-3.7740159203772983,-38.601310614725634,E.E.F.M Doutor Ubirajara Índio do Cearárá (UV7 B)
+5793441,Fortaleza,2103,,Avenida H,2,school,True,-3.7769713333333335,-38.61716096666667,Escola Municipal Francisco Edmilson Pinheiro
+8787088,Fortaleza,,60876-670,Avenida Oscar Araripe,2,school,True,-3.785738257414974,-38.618034024220364,EEFM Michelson Nobre da Silva
+8787096,,1366,60540-258,Rua B,2,school,True,-3.789091517554879,-38.62961671083997,Escola de Tempo Parcial João Mendes de Andrade
